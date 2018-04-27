@@ -449,28 +449,28 @@
         <xs:annotation>
             <xs:documentation>M202</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:string"/>
+        <xs:restriction base="uuid"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseArvtaker">
         <xs:annotation>
             <xs:documentation>M203</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:string"/>
+        <xs:restriction base="uuid"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseArkivdel">
         <xs:annotation>
             <xs:documentation>M208</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:string"/>
+        <xs:restriction base="uuid"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseSekundaerKlassifikasjon">
         <xs:annotation>
             <xs:documentation>M209</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:string"/>
+        <xs:restriction base="uuid"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseTilMappe">
@@ -495,7 +495,7 @@
         <xs:annotation>
             <xs:documentation>M215</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="xs:string"/>
+        <xs:restriction base="uuid"/>
     </xs:simpleType>
 
     <xs:simpleType name="tilknyttetRegistreringSom">
