@@ -12,6 +12,7 @@
         <arkivskaperID>0001</arkivskaperID>
         <arkivskaperNavn>Ukjent</arkivskaperNavn>
     </arkivskaper>
+
     <arkivdel>
         <systemID>ba5f8c02-b38c-4538-ba64-440334487410</systemID>
         <tittel>eInnsyn-Moeter</tittel>
@@ -20,6 +21,7 @@
         <opprettetAv>Ukjent</opprettetAv>
         <avsluttetDato>3000-01-01T00:00:00.000+01:00</avsluttetDato>
         <avsluttetAv>Ukjent</avsluttetAv>
+
         <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
             <!-- MM-12597-BR2 -->
             <systemID>79ac059a-cb02-4312-9f34-233318a19f0d</systemID>
@@ -33,6 +35,7 @@
             <avsluttetDato>2018-04-19T00:00:00.000+02:00</avsluttetDato>
             <avsluttetAv>N/A</avsluttetAv>
             <referanseArkivdel>ba5f8c02-b38c-4538-ba64-440334487410</referanseArkivdel>
+
             <registrering xsi:type="ark:moetedokumentregistrering">
                 <!-- MR-12597-BR2 -->
                 <systemID>59a82e69-9ca1-4b95-ab0d-910db2b8f183</systemID>
@@ -43,7 +46,7 @@
                 <referanseArkivdel>ba5f8c02-b38c-4538-ba64-440334487410</referanseArkivdel>
                 <dokumentbeskrivelse>
                     <systemID>DB-976819837-1874252</systemID>
-                    <dokumenttype>SK</dokumenttype>
+                    <dokumenttype>Sakskart</dokumenttype>
                     <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
                     <tittel>Sakskart</tittel>
                     <beskrivelse>Sakskart</beskrivelse>
@@ -67,9 +70,26 @@
                         <filstoerrelse>0</filstoerrelse>
                     </dokumentobjekt>
                 </dokumentbeskrivelse>
+                <registreringsID>59a82e69-9ca1-4b95-ab0d-910db2b8f183</registreringsID>
+                <tittel>Sakskart</tittel>
+                <offentligTittel>Sakskart</offentligTittel>
+                <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                <administrativEnhet>976819837</administrativEnhet>
+                <saksbehandler>N/A</saksbehandler>
+                <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+            </registrering>
+
+            <registrering xsi:type="ark:moetedokumentregistrering">
+                <!-- MR-12597-BR2 -->
+                <systemID>f853e9df-8f80-458f-8f8b-46f6021400c0</systemID>
+                <opprettetDato>2018-04-19T00:00:00.000+02:00</opprettetDato>
+                <opprettetAv>N/A</opprettetAv>
+                <arkivertDato>2018-04-19T00:00:00.000+02:00</arkivertDato>
+                <arkivertAv>N/A</arkivertAv>
+                <referanseArkivdel>ba5f8c02-b38c-4538-ba64-440334487410</referanseArkivdel>
                 <dokumentbeskrivelse>
                     <systemID>DB-976819837-1877987</systemID>
-                    <dokumenttype>MP</dokumenttype>
+                    <dokumenttype>Protokoll</dokumenttype>
                     <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
                     <tittel>Protokoll</tittel>
                     <beskrivelse>Protokoll</beskrivelse>
@@ -94,13 +114,14 @@
                     </dokumentobjekt>
                 </dokumentbeskrivelse>
                 <registreringsID>59a82e69-9ca1-4b95-ab0d-910db2b8f183</registreringsID>
-                <tittel>Møtedokumenter</tittel>
-                <offentligTittel>Møtedokumenter</offentligTittel>
+                <tittel>Protokoll</tittel>
+                <offentligTittel>Protokoll</offentligTittel>
                 <dokumentmedium>Elektronisk arkiv</dokumentmedium>
                 <administrativEnhet>976819837</administrativEnhet>
                 <saksbehandler>N/A</saksbehandler>
-                <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+                <moetedokumentregistreringstype>Protokoll</moetedokumentregistreringstype>
             </registrering>
+
             <registrering xsi:type="ark:moetesaksregistrering">
                 <!-- MR-12597-201604935-19063-1031 -->
                 <systemID>98211794-b9e7-4f68-9cd7-4df65d27c90b</systemID>
@@ -145,6 +166,7 @@
                 <saksbehandler>Zongo Inger Marie Silli</saksbehandler>
                 <referanseTilSak>ba5b0283-ac67-4c8a-a9f2-c32551eb4128</referanseTilSak>
             </registrering>
+
             <moetenummer>N/A</moetenummer>
             <utvalg>BR2</utvalg>
             <moetedato>2018-04-19T10:00:00.000+02:00</moetedato>
@@ -154,6 +176,7 @@
                 <moetedeltakerFunksjon>Ukjent</moetedeltakerFunksjon>
             </moetedeltaker>
         </mappe>
+
         <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
             <!-- SM-201604935-19063 -->
             <systemID>4eddbfec-d68a-4e50-9a3a-f4e30af0ec80</systemID>
@@ -165,6 +188,7 @@
             <avsluttetDato>2018-04-19T00:00:00.000+02:00</avsluttetDato>
             <avsluttetAv>N/A</avsluttetAv>
             <referanseArkivdel>ba5f8c02-b38c-4538-ba64-440334487410</referanseArkivdel>
+
             <registrering xsi:type="ark:journalpost">
                 <!-- JP-201604935-19063-1031 -->
                 <systemID>ba5b0283-ac67-4c8a-a9f2-c32551eb4128</systemID>
@@ -208,6 +232,7 @@
                 <journalstatus>Journalført</journalstatus>
                 <journaldato>2018-04-19+02:00</journaldato>
             </registrering>
+
             <saksaar>201</saksaar>
             <sakssekvensnummer>4935</sakssekvensnummer>
             <saksdato>2018-04-19+02:00</saksdato>
@@ -215,5 +240,6 @@
             <saksansvarlig>Zongo Inger Marie Silli</saksansvarlig>
             <saksstatus>Avsluttet</saksstatus>
         </mappe>
+
     </arkivdel>
 </arkiv>
