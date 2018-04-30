@@ -1,0 +1,221 @@
+<!-- Original fra DKI: https://tjenester.oslo.kommune.no/ekstern/einnsyn/moeteregistrering?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark5%2Ffremtidigmoeteregistrering- -FMR-1800607-1138676- -976819853 -->
+<arkiv xmlns="http://www.arkivverket.no/standarder/noark5/arkivstruktur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <systemID>5d976f24-4961-483d-b14a-33e6688ba053</systemID>
+    <tittel>eInnsyn arkiv for virksomhet 976819853</tittel>
+    <arkivstatus>Opprettet</arkivstatus>
+    <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>eInnsyn</opprettetAv>
+    <avsluttetDato>2100-01-01T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv>Ukjent</avsluttetAv>
+    <arkivskaper>
+        <arkivskaperID>0001</arkivskaperID>
+        <arkivskaperNavn>Ukjent</arkivskaperNavn>
+    </arkivskaper>
+    <arkivdel>
+        <systemID>0f48c034-18f4-43fb-b9ff-7e574002c771</systemID>
+        <tittel>eInnsyn-Moeter</tittel>
+        <arkivdelstatus>Aktiv periode</arkivdelstatus>
+        <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv>Ukjent</opprettetAv>
+        <avsluttetDato>3000-01-01T00:00:00.000+01:00</avsluttetDato>
+        <avsluttetAv>Ukjent</avsluttetAv>
+
+        <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+            <!-- FB-1800607-1138676-FKOM -->
+            <systemID>77d3b894-5a65-4202-b443-6389c1863e7b</systemID>
+            <mappeID>77d3b894-5a65-4202-b443-6389c1863e7b</mappeID>
+            <tittel>Mappe for fremtidig møte</tittel>
+            <offentligTittel>Mappe for fremtidig møte</offentligTittel>
+            <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+            <opprettetAv>N/A</opprettetAv>
+            <avsluttetDato>2100-01-01T00:00:00.000+01:00</avsluttetDato>
+            <avsluttetAv>N/A</avsluttetAv>
+
+            <registrering xsi:type="ark:moetesaksregistrering">
+                <!-- FMR-1800607-1138676 -->
+                <systemID>b9dbcf79-0aac-451d-8123-ee1c52174d98</systemID>
+                <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+                <opprettetAv>N/A</opprettetAv>
+                <arkivertDato>1990-01-01T00:00:00.000+01:00</arkivertDato>
+                <arkivertAv>N/A</arkivertAv>
+                <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                <registreringsID>b9dbcf79-0aac-451d-8123-ee1c52174d98</registreringsID>
+                <tittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</tittel>
+                <offentligTittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</offentligTittel>
+                <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                <moetesakstype>Politisk sak</moetesakstype>
+                <administrativEnhet>976819853</administrativEnhet>
+                <referanseTilSak>834550a2-0da4-4b55-a001-988870bf79f3</referanseTilSak>
+            </registrering>
+            <utvalg>FKOM</utvalg>
+        </mappe>
+
+        <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+            <!-- SM-1800607-1138676 -->
+            <systemID>c6205a2a-919b-4999-bfc7-ee84cf2c8225</systemID>
+            <mappeID>c6205a2a-919b-4999-bfc7-ee84cf2c8225</mappeID>
+            <tittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</tittel>
+            <offentligTittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</offentligTittel>
+            <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+            <opprettetAv>N/A</opprettetAv>
+            <avsluttetDato>2100-01-01T00:00:00.000+01:00</avsluttetDato>
+            <avsluttetAv>N/A</avsluttetAv>
+            <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+
+            <registrering xsi:type="ark:journalpost">
+                <!-- FJP-1800607-1138676 -->
+                <systemID>834550a2-0da4-4b55-a001-988870bf79f3</systemID>
+                <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+                <opprettetAv>N/A</opprettetAv>
+                <arkivertDato>1990-01-01T00:00:00.000+01:00</arkivertDato>
+                <arkivertAv>N/A</arkivertAv>
+                <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                <dokumentbeskrivelse>
+                    <systemID>DB-976819853-1241171</systemID>
+                    <dokumenttype>Vedlegg</dokumenttype>
+                    <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+                    <tittel>Notat 15/2018 - Høring - NOU 2017: 17 På ein søndag?</tittel>
+                    <beskrivelse>Vedlegg</beskrivelse>
+                    <opprettetDato>2018-04-27T20:54:16.180+02:00</opprettetDato>
+                    <opprettetAv>N/A</opprettetAv>
+                    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                    <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                    <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+                    <dokumentnummer>1241171</dokumentnummer>
+                    <tilknyttetDato>2018-04-27T20:54:16.180+02:00</tilknyttetDato>
+                    <tilknyttetAv>N/A</tilknyttetAv>
+                    <dokumentobjekt>
+                        <versjonsnummer>1</versjonsnummer>
+                        <variantformat>Arkivformat</variantformat>
+                        <format>pdf</format>
+                        <opprettetDato>2018-04-27T20:54:21.617+02:00</opprettetDato>
+                        <opprettetAv>N/A</opprettetAv>
+                        <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_03/1241171_1_1.PDF</referanseDokumentfil>
+                        <sjekksum>N/A</sjekksum>
+                        <sjekksumAlgoritme>N/A</sjekksumAlgoritme>
+                        <filstoerrelse>0</filstoerrelse>
+                    </dokumentobjekt>
+                </dokumentbeskrivelse>
+                <dokumentbeskrivelse>
+                    <systemID>DB-976819853-1243921</systemID>
+                    <dokumenttype>Vedlegg</dokumenttype>
+                    <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+                    <tittel>Notat 17/2018 - NOU 2017:17 På ein søndag? - Svar på spørsmål fra Øystein Sundelin (H)</tittel>
+                    <beskrivelse>Vedlegg</beskrivelse>
+                    <opprettetDato>2018-04-27T20:54:16.193+02:00</opprettetDato>
+                    <opprettetAv>N/A</opprettetAv>
+                    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                    <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                    <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+                    <dokumentnummer>1243921</dokumentnummer>
+                    <tilknyttetDato>2018-04-27T20:54:16.193+02:00</tilknyttetDato>
+                    <tilknyttetAv>N/A</tilknyttetAv>
+                    <dokumentobjekt>
+                        <versjonsnummer>1</versjonsnummer>
+                        <variantformat>Arkivformat</variantformat>
+                        <format>pdf</format>
+                        <opprettetDato>2018-04-27T20:54:21.630+02:00</opprettetDato>
+                        <opprettetAv>N/A</opprettetAv>
+                        <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_04/1243921_1_1.PDF</referanseDokumentfil>
+                        <sjekksum>N/A</sjekksum>
+                        <sjekksumAlgoritme>N/A</sjekksumAlgoritme>
+                        <filstoerrelse>0</filstoerrelse>
+                    </dokumentobjekt>
+                </dokumentbeskrivelse>
+                <dokumentbeskrivelse>
+                    <systemID>DB-976819853-1247247</systemID>
+                    <dokumenttype>Vedlegg</dokumenttype>
+                    <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+                    <tittel>Byrådssak 95/2018 - Høring — NOU 2017:17 På ein søndag? - Oslo kommunes høringssvar</tittel>
+                    <beskrivelse>Vedlegg</beskrivelse>
+                    <opprettetDato>2018-04-27T20:54:16.207+02:00</opprettetDato>
+                    <opprettetAv>N/A</opprettetAv>
+                    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                    <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                    <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+                    <dokumentnummer>1247247</dokumentnummer>
+                    <tilknyttetDato>2018-04-27T20:54:16.207+02:00</tilknyttetDato>
+                    <tilknyttetAv>N/A</tilknyttetAv>
+                    <dokumentobjekt>
+                        <versjonsnummer>1</versjonsnummer>
+                        <variantformat>Arkivformat</variantformat>
+                        <format>pdf</format>
+                        <opprettetDato>2018-04-27T20:54:21.640+02:00</opprettetDato>
+                        <opprettetAv>N/A</opprettetAv>
+                        <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_04/1247247_1_1.PDF</referanseDokumentfil>
+                        <sjekksum>N/A</sjekksum>
+                        <sjekksumAlgoritme>N/A</sjekksumAlgoritme>
+                        <filstoerrelse>0</filstoerrelse>
+                    </dokumentobjekt>
+                </dokumentbeskrivelse>
+                <dokumentbeskrivelse>
+                    <systemID>DB-976819853-1247248</systemID>
+                    <dokumenttype>Vedlegg</dokumenttype>
+                    <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+                    <tittel>95 1. Høringsbrev</tittel>
+                    <beskrivelse>Vedlegg</beskrivelse>
+                    <opprettetDato>2018-04-27T20:54:16.220+02:00</opprettetDato>
+                    <opprettetAv>N/A</opprettetAv>
+                    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                    <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                    <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+                    <dokumentnummer>1247248</dokumentnummer>
+                    <tilknyttetDato>2018-04-27T20:54:16.220+02:00</tilknyttetDato>
+                    <tilknyttetAv>N/A</tilknyttetAv>
+                    <dokumentobjekt>
+                        <versjonsnummer>1</versjonsnummer>
+                        <variantformat>Arkivformat</variantformat>
+                        <format>pdf</format>
+                        <opprettetDato>2018-04-27T20:54:21.653+02:00</opprettetDato>
+                        <opprettetAv>N/A</opprettetAv>
+                        <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_04/1247248_1_1.PDF</referanseDokumentfil>
+                        <sjekksum>N/A</sjekksum>
+                        <sjekksumAlgoritme>N/A</sjekksumAlgoritme>
+                        <filstoerrelse>0</filstoerrelse>
+                    </dokumentobjekt>
+                </dokumentbeskrivelse>
+                <dokumentbeskrivelse>
+                    <systemID>DB-976819853-1247249</systemID>
+                    <dokumenttype>Vedlegg</dokumenttype>
+                    <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+                    <tittel>95 2. NOU 2017 - 17</tittel>
+                    <beskrivelse>Vedlegg</beskrivelse>
+                    <opprettetDato>2018-04-27T20:54:16.237+02:00</opprettetDato>
+                    <opprettetAv>N/A</opprettetAv>
+                    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+                    <referanseArkivdel>0f48c034-18f4-43fb-b9ff-7e574002c771</referanseArkivdel>
+                    <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+                    <dokumentnummer>1247249</dokumentnummer>
+                    <tilknyttetDato>2018-04-27T20:54:16.237+02:00</tilknyttetDato>
+                    <tilknyttetAv>N/A</tilknyttetAv>
+                    <dokumentobjekt>
+                        <versjonsnummer>1</versjonsnummer>
+                        <variantformat>Arkivformat</variantformat>
+                        <format>pdf</format>
+                        <opprettetDato>2018-04-27T20:54:21.663+02:00</opprettetDato>
+                        <opprettetAv>N/A</opprettetAv>
+                        <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_04/1247249_1_1.PDF</referanseDokumentfil>
+                        <sjekksum>N/A</sjekksum>
+                        <sjekksumAlgoritme>N/A</sjekksumAlgoritme>
+                        <filstoerrelse>0</filstoerrelse>
+                    </dokumentobjekt>
+                </dokumentbeskrivelse>
+                <registreringsID>834550a2-0da4-4b55-a001-988870bf79f3</registreringsID>
+                <tittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</tittel>
+                <offentligTittel>Høring - NOU 2017: 17 På en søndag? Regulering av søndagshandel - Byrådssak 95/2018</offentligTittel>
+                <journalaar>18</journalaar>
+                <journalsekvensnummer>607</journalsekvensnummer>
+                <journalposttype>Saksframlegg</journalposttype>
+                <journalstatus>Journalført</journalstatus>
+                <journaldato>1990-01-01+01:00</journaldato>
+            </registrering>
+
+            <saksaar>18</saksaar>
+            <sakssekvensnummer>607</sakssekvensnummer>
+            <saksdato>1990-01-01+01:00</saksdato>
+            <administrativEnhet>976819853</administrativEnhet>
+            <saksansvarlig>N/A</saksansvarlig>
+            <saksstatus>Under behandling</saksstatus>
+        </mappe>
+    </arkivdel>
+</arkiv>
