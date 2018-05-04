@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trekkTilbake xmlns="http://www.arkivverket.no/standarder/noark5/metamelding" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mappe xsi:type="moetemappe">
+        <systemID>1c73da06-1723-4aff-90da-893941d6db9a</systemID>
+    </mappe>
+    <registrering xsi:type="journalpost">
+        <systemID>f19f26b8-41ff-4e81-a34b-72e238fafc94</systemID>
+    </registrering>
+</trekkTilbake>
