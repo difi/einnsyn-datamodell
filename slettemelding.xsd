@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.arkivverket.no/standarder/noark5/slettemelding"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.arkivverket.no/standarder/noark5/slettemelding"
+           elementFormDefault="qualified" attributeFormDefault="unqualified" version="3.1">
+
+    <!-- Rotelementet -->
+    <xs:element name="trekkTilbake" type="trekkTilbake"/>
+
+    <xs:complexType name="trekkTilbake">
+        <xs:sequence>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element name="registrering" type="registrering"/>
+                <xs:element name="mappe" type="mappe"/>
+            </xs:choice>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="uuid">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([0-9a-fA-F]{8}(-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12})"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="systemID">
+        <xs:restriction base="uuid"/>
+    </xs:simpleType>
+
+    <xs:complexType name="registrering">
+        <xs:sequence>
+            <xs:element name="systemID" type="systemID"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="basisregistrering">
+        <xs:complexContent>
+            <xs:extension base="registrering"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="moetedokumentregistrering">
+        <xs:complexContent>
+            <xs:extension base="basisregistrering"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="moetesaksregistrering">
+        <xs:complexContent>
+            <xs:extension base="basisregistrering"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="journalpost">
+        <xs:complexContent>
+            <xs:extension base="basisregistrering"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="mappe">
+        <xs:sequence>
+            <xs:element name="systemID" type="systemID"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="saksmappe">
+        <xs:complexContent>
+            <xs:extension base="mappe"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="moetemappe">
+        <xs:complexContent>
+            <xs:extension base="mappe"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+</xs:schema>
