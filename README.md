@@ -11,8 +11,8 @@ Trykk på "Open with draw.io Diagrams" øverst, når du trykker på lenken over.
 Skissen over ble eksportert 26/4/2018, lenken over viser alltid siste versjon av skissen.
 
 # Forskjeller fra NOARK 5.3.1
- - Metadatakatalog.xsd: http://www.mergely.com/oWNHv6Lo/
- - Arkivstruktur.xsd: http://www.mergely.com/MZnZOdkC/
+ - Metadatakatalog.xsd: http://www.mergely.com/TA2JKWVd/
+ - Arkivstruktur.xsd: http://www.mergely.com/9NL4Rt7g/
 
 # Eksempelfiler
  - Eksempelfil: https://github.com/difi/einnsyn-datamodell/blob/master/moetemappe2-ny-modell.xml
