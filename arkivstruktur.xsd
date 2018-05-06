@@ -113,9 +113,6 @@
     </xs:complexType>
 
 
-
-
-
     <xs:complexType name="klasse">
         <xs:sequence>
             <xs:element name="systemID" type="n5mdk:systemID"/>
@@ -148,7 +145,7 @@
             <xs:element name="systemID" type="n5mdk:uuid"/>
             <xs:element name="mappeID" type="n5mdk:mappeID"/>
             <xs:element name="tittel" type="tittel"/>
-            <xs:element name="offentligTittel" type="offentligTittel" />
+            <xs:element name="offentligTittel" type="offentligTittel"/>
             <xs:element name="beskrivelse" type="n5mdk:beskrivelse" minOccurs="0"/>
             <xs:element name="noekkelord" type="n5mdk:noekkelord" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element name="dokumentmedium" type="n5mdk:dokumentmedium" minOccurs="0"/>
@@ -231,6 +228,7 @@
         </xs:complexContent>
     </xs:complexType>
 
+
     <xs:complexType name="moetedeltaker">
         <xs:sequence>
             <xs:element name="moetedeltakerNavn" type="n5mdk:moetedeltakerNavn"/>
@@ -305,6 +303,7 @@
                     <xs:element name="utlaantDato" type="n5mdk:utlaantDato" minOccurs="0"/>
                     <xs:element name="utlaantTil" type="n5mdk:utlaantTil" minOccurs="0"/>
                     <xs:element name="journalenhet" type="n5mdk:journalenhet" minOccurs="0"/>
+
                     <xs:element name="korrespondansepart" type="korrespondansepart" minOccurs="0" maxOccurs="unbounded"/>
                     <xs:element name="avskrivning" type="avskrivning" minOccurs="0" maxOccurs="unbounded"/>
                     <xs:element name="dokumentflyt" type="dokumentflyt" minOccurs="0" maxOccurs="unbounded"/>
@@ -316,31 +315,6 @@
         </xs:complexContent>
     </xs:complexType>
 
-    <xs:complexType name="moetesaksregistrering">
-        <xs:complexContent>
-            <xs:extension base="basisregistrering">
-                <xs:sequence>
-                    <xs:element name="moetesakstype" type="n5mdk:moetesakstype"/>
-                    <xs:element name="moeteregistreringsstatus" type="n5mdk:moeteregistreringsstatus" minOccurs="0"/>
-                    <xs:element name="administrativEnhet" type="n5mdk:administrativEnhet" minOccurs="0"/>
-                    <xs:element name="saksbehandler" type="n5mdk:saksbehandler" minOccurs="0"/>
-                    <xs:element name="referanseTilSak" type="n5mdk:referanseTilSak" minOccurs="0"/>
-                </xs:sequence>
-            </xs:extension>
-        </xs:complexContent>
-    </xs:complexType>
-
-    <xs:complexType name="moetedokumentregistrering">
-        <xs:complexContent>
-            <xs:extension base="basisregistrering">
-                <xs:sequence>
-                    <xs:element name="administrativEnhet" type="n5mdk:administrativEnhet" minOccurs="0"/>
-                    <xs:element name="saksbehandler" type="n5mdk:saksbehandler" minOccurs="0"/>
-                    <xs:element name="moetedokumentregistreringstype" type="n5mdk:moetedokumentregistreringstype"/>
-                </xs:sequence>
-            </xs:extension>
-        </xs:complexContent>
-    </xs:complexType>
 
     <xs:complexType name="korrespondansepart">
         <xs:sequence>
@@ -381,6 +355,32 @@
     </xs:complexType>
 
 
+    <xs:complexType name="moetesaksregistrering">
+        <xs:complexContent>
+            <xs:extension base="basisregistrering">
+                <xs:sequence>
+                    <xs:element name="moetesakstype" type="n5mdk:moetesakstype"/>
+                    <xs:element name="moeteregistreringsstatus" type="n5mdk:moeteregistreringsstatus" minOccurs="0"/>
+                    <xs:element name="administrativEnhet" type="n5mdk:administrativEnhet" minOccurs="0"/>
+                    <xs:element name="saksbehandler" type="n5mdk:saksbehandler" minOccurs="0"/>
+                    <xs:element name="referanseTilSak" type="n5mdk:referanseTilSak" minOccurs="0"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+
+    <xs:complexType name="moetedokumentregistrering">
+        <xs:complexContent>
+            <xs:extension base="basisregistrering">
+                <xs:sequence>
+                    <xs:element name="administrativEnhet" type="n5mdk:administrativEnhet" minOccurs="0"/>
+                    <xs:element name="saksbehandler" type="n5mdk:saksbehandler" minOccurs="0"/>
+                    <xs:element name="moetedokumentregistreringstype" type="n5mdk:moetedokumentregistreringstype"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
 
 
     <xs:complexType name="dokumentbeskrivelse">
@@ -546,7 +546,7 @@
             <xs:documentation>M020</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0" />
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 
@@ -555,7 +555,7 @@
             <xs:documentation>M024</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn"  maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 
@@ -564,7 +564,7 @@
             <xs:documentation>M025</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn"  maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 
@@ -573,7 +573,7 @@
             <xs:documentation>M306</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn"  maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 
@@ -582,7 +582,7 @@
             <xs:documentation>M307</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn"  maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 
@@ -591,7 +591,7 @@
             <xs:documentation>M400</xs:documentation>
         </xs:annotation>
         <xs:sequence>
-            <xs:element name="personnavn" type="n5mdk:personnavn"  maxOccurs="unbounded" minOccurs="0"/>
+            <xs:element name="personnavn" type="n5mdk:personnavn" maxOccurs="unbounded" minOccurs="0"/>
         </xs:sequence>
     </xs:complexType>
 

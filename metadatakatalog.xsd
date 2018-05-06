@@ -147,8 +147,6 @@
     <!-- M020-M049: Kjernemetadata (jf. Dublin Core) -->
 
 
-
-
     <xs:simpleType name="beskrivelse">
         <xs:annotation>
             <xs:documentation>M021</xs:documentation>
@@ -169,9 +167,6 @@
         </xs:annotation>
         <xs:restriction base="xs:string"/>
     </xs:simpleType>
-
-
-
 
 
     <!-- M050-M079: Status -->
@@ -535,21 +530,21 @@
         <xs:restriction base="uuid"/>
     </xs:simpleType>
 
-<!--
-    <xs:simpleType name="referanseTilMoeteregistrering">
-        <xs:annotation>
-            <xs:documentation>M223</xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string"/>
-    </xs:simpleType>
+    <!--
+        <xs:simpleType name="referanseTilMoeteregistrering">
+            <xs:annotation>
+                <xs:documentation>M223</xs:documentation>
+            </xs:annotation>
+            <xs:restriction base="xs:string"/>
+        </xs:simpleType>
 
-    <xs:simpleType name="referanseFraMoeteregistrering">
-        <xs:annotation>
-            <xs:documentation>M224</xs:documentation>
-        </xs:annotation>
-        <xs:restriction base="xs:string"/>
-    </xs:simpleType>
--->
+        <xs:simpleType name="referanseFraMoeteregistrering">
+            <xs:annotation>
+                <xs:documentation>M224</xs:documentation>
+            </xs:annotation>
+            <xs:restriction base="xs:string"/>
+        </xs:simpleType>
+    -->
 
     <!-- M300-M369: Arkiv- og saksbehandlingsfunksjonalitet -->
 
