@@ -2,7 +2,6 @@
 <xs:schema xmlns="http://www.arkivverket.no/standarder/noark5/metadatakatalog"
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            targetNamespace="http://www.arkivverket.no/standarder/noark5/metadatakatalog"
-           xmlns:arkiv="http://www.arkivverket.no/standarder/noark5/arkivstruktur"
            elementFormDefault="qualified" version="3.1">
 
     <!--
@@ -470,7 +469,7 @@
         <xs:annotation>
             <xs:documentation>M209</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="uuid"/>
+        <xs:restriction base="xs:string"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseTilMappe">
@@ -519,7 +518,7 @@
         <xs:annotation>
             <xs:documentation>M219</xs:documentation>
         </xs:annotation>
-        <xs:restriction base="uuid"/>
+        <xs:restriction base="xs:string"/>
     </xs:simpleType>
 
     <xs:simpleType name="referanseForrigeMoete">
