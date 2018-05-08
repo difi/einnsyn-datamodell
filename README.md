@@ -21,6 +21,10 @@ Skissen over ble eksportert 26/4/2018, lenken over viser alltid siste versjon av
  - Eksempelfil: https://github.com/difi/einnsyn-datamodell/blob/master/fremtidigmoete1-ny-modell.xml
  - Visning av eksempelfil: https://tjenester.oslo.kommune.no/ekstern/einnsyn/moeteregistrering?id=http%3A%2F%2Fdata.einnsyn.no%2Fnoark5%2Ffremtidigmoeteregistrering--FMR-1800607-1138676--976819853
 
+# Møter og referat:
+
+ - 7. mai 2018: https://github.com/difi/einnsyn-datamodell/wiki/M%C3%B8te-7.-mai-2018
+
 # Todo
  - lage flere eksempler
  - laste opp JSON-LD
