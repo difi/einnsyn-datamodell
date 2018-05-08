@@ -23,7 +23,7 @@ Skissen over ble eksportert 26/4/2018, lenken over viser alltid siste versjon av
 
 # Møter og referat:
 
- - 7. mai 2018: https://github.com/difi/einnsyn-datamodell/wiki/M%C3%B8te-7.-mai-2018
+ - 7 mai 2018: https://github.com/difi/einnsyn-datamodell/wiki/M%C3%B8te-7.-mai-2018
 
 # Todo
  - lage flere eksempler
