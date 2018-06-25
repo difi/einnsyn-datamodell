@@ -1,0 +1,1028 @@
+<!--Generert av DKI-API. SIPS link: https://www.oslo.kommune.no/sru/utv_meetinfo.asp?meetid=1541&db_source=111-->
+<arkiv xmlns="http://www.arkivverket.no/standarder/noark5/arkivstruktur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--DKI namespace-->
+  <systemID>73dd888c-1fe6-45fe-8e10-b88569d35dc3</systemID>
+  <tittel>eInnsyn arkiv for virksomhet 874778842</tittel>
+  <arkivstatus>Opprettet</arkivstatus>
+  <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+  <opprettetAv>eInnsyn</opprettetAv>
+  <avsluttetAv>Ukjent</avsluttetAv>
+  <arkivskaper>
+    <arkivskaperID>0001</arkivskaperID>
+    <arkivskaperNavn>Ukjent</arkivskaperNavn>
+  </arkivskaper>
+  <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--MM-1541-MOK (29abf38d-fad6-595e-beb7-a8722e353378)-->
+    <systemID>f840e3d8-dfea-43a4-9d52-24575f936b2b</systemID>
+    <mappeID>f840e3d8-dfea-43a4-9d52-24575f936b2b</mappeID>
+    <tittel>Møte</tittel>
+    <offentligTittel>Møte</offentligTittel>
+    <beskrivelse>Under forberedelse</beskrivelse>
+    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+    <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv/>
+    <avsluttetDato>2018-06-06T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1541-MOK-DB-874778842-180122 (19682e8c-88d9-5551-8d4b-b16bcc07ab25)-->
+      <systemID>1922ab31-c1a7-4da3-ab71-f647c9e9fcf9</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180122</systemID>
+        <dokumenttype>MI</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksliste. MOK, 060618  1800, Møte.</tittel>
+        <beskrivelse>Møteinnkalling/sakskart</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>180122</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018010071-180122.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>1922ab31-c1a7-4da3-ab71-f647c9e9fcf9</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201800011-8247-19 (a71d2902-b622-530d-9429-1f7864f0c581)-->
+      <systemID>6f0b54c7-b43c-41bf-a102-190aad238612</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>19/2018</registreringsID>
+      <tittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</tittel>
+      <offentligTittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Wasa Guro</saksbehandler>
+      <!--JP-201800011-8247-19 (7e3742a2-bf4a-5b49-bc6e-330035b6d424)-->
+      <referanseTilMoetesak>2eeceb0a-0584-4f2f-9e33-02c884ae3fb4</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>11</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201600136-8215-20 (65aae57d-4485-5c6d-bd2b-cd80dfe8838f)-->
+      <systemID>960ab318-76e2-4fb7-99cc-f70a2fc3c9a3</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>20/2018</registreringsID>
+      <tittel>Barnehageutvikling i Bydel Stovner</tittel>
+      <offentligTittel>Barnehageutvikling i Bydel Stovner</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Wasa Guro</saksbehandler>
+      <!--JP-201600136-8215-20 (9645f8f6-606c-5f56-ae95-d900ee8dbde1)-->
+      <referanseTilMoetesak>f40bc22c-7208-4fe1-bc90-53d261c9ea2b</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>136</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201800215-8203-21 (032f9063-fdd1-51b2-81e8-30391707dca0)-->
+      <systemID>8b10f647-6b00-42e3-81dd-fb0cc8e4a78b</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>21/2018</registreringsID>
+      <tittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</tittel>
+      <offentligTittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Behring Andreas</saksbehandler>
+      <!--JP-201800215-8203-21 (64bf64ec-0346-598d-af26-dc103bbd947e)-->
+      <referanseTilMoetesak>ea53646b-9295-4963-962a-f0ab725d5389</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>215</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201800041-8204-22 (65557a5e-ce00-53e0-989b-660e4a3e20c3)-->
+      <systemID>700924f2-e73b-422d-8925-f047a86d44ab</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>22/2018</registreringsID>
+      <tittel>Arrangementer og støtte til frivilligheten i 2018</tittel>
+      <offentligTittel>Arrangementer og støtte til frivilligheten i 2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Naveen, Neha</saksbehandler>
+      <!--JP-201800041-8204-22 (b2ef8666-e1e7-5d93-8d19-45842f6098f9)-->
+      <referanseTilMoetesak>c5d3f298-3517-4970-b1c3-0ea5baef828e</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>41</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201700371-8202-23 (06c08f7e-87e8-5c9f-b970-af0e111dd4e1)-->
+      <systemID>6b7ad5a2-91f4-45f9-b8d4-988c1148be29</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>23/2018</registreringsID>
+      <tittel>Støtte til VestliFest</tittel>
+      <offentligTittel>Støtte til VestliFest</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Olsbø, Miriam</saksbehandler>
+      <!--JP-201700371-8202-23 (1e841d6e-3a83-59cc-bf6a-3ae142976dca)-->
+      <referanseTilMoetesak>55e1394c-964a-4799-8bdb-1b053dc5b155</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>371</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201600330-8212-24 (7036ada4-a922-5a61-9359-a9196089cde3)-->
+      <systemID>97327d7f-368a-4864-acc4-754b575811c4</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>24/2018</registreringsID>
+      <tittel>Styrking av barnevernets uteteam - forslag fra SV</tittel>
+      <offentligTittel>Styrking av barnevernets uteteam - forslag fra SV</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Wasa Guro</saksbehandler>
+      <!--JP-201600330-8212-24 (2e2a806c-cdff-5dcd-9909-cce71a11983e)-->
+      <referanseTilMoetesak>33f9ccaf-3b7d-485f-abbf-a7eb16e92aa5</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>330</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201800286-8241-25 (157da6fc-6a40-5021-9f14-3d1f5a8a4432)-->
+      <systemID>6d8eee98-91b5-49fd-a9f2-cd74d0b504be</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>25/2018</registreringsID>
+      <tittel>Stovner kirke foreslått nedlagt - konsekvenser</tittel>
+      <offentligTittel>Stovner kirke foreslått nedlagt - konsekvenser</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Wasa Guro</saksbehandler>
+      <!--JP-201800286-8241-25 (4b241cd9-c156-5228-949b-251be4818074)-->
+      <referanseTilMoetesak>d478ac29-606c-47fd-aa40-b34577e0255d</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>286</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1541-201800011-8249-26 (2edaabeb-2785-5093-bf35-3318bdd753b3)-->
+      <systemID>7819487e-87de-4627-9a9c-66d6ef9f3b8b</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <registreringsID>26/2018</registreringsID>
+      <tittel>Referatsaker</tittel>
+      <offentligTittel>Referatsaker</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Referatsak</moetesakstype>
+      <moeteregistreringsstatus>Låst til sakskart</moeteregistreringsstatus>
+      <administrativEnhet>874778842</administrativEnhet>
+      <saksbehandler>Dørum Solveig</saksbehandler>
+      <!--JP-201800011-8249-26 (72f04a0c-9870-51fa-b836-4165f73c629e)-->
+      <referanseTilMoetesak>34166ba5-89c2-4fc1-8569-a269127e2c29</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>11</moetesakssekvensnummer>
+    </registrering>
+    <moetenummer/>
+    <utvalg>MOK</utvalg>
+    <moetedato>2018-06-06T18:00:00.000+02:00</moetedato>
+    <moetested>Glassmøterommet, Karl Fossums vei 30</moetested>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201800215-8203 (aec5f811-2204-58e7-b01a-b4e6e614ea86)-->
+    <systemID>f2788629-1ac1-460e-97b2-fca051c6a449</systemID>
+    <mappeID>2018/215</mappeID>
+    <tittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</tittel>
+    <offentligTittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</offentligTittel>
+    <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Behring Andreas</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201800215-8203-21-->
+      <systemID>ea53646b-9295-4963-962a-f0ab725d5389</systemID>
+      <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Behring Andreas</opprettetAv>
+      <arkivertDato>2018-05-24T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-1</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009067-178473.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>64bf64ec-0346-598d-af26-dc103bbd947e</registreringsID>
+      <tittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</tittel>
+      <offentligTittel>Status for arbeidet med Groruddalssatsing og prosess for programplan nærmiljø 2019</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>215</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-05-24+02:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>215</sakssekvensnummer>
+    <saksdato>2018-05-24+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Behring Andreas</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201700371-8202 (ed026ee4-590e-523a-b279-dc51d5f220f8)-->
+    <systemID>f4ef097a-fb14-4c9c-9fb3-6fcbc0deef5d</systemID>
+    <mappeID>2017/371</mappeID>
+    <tittel>Støtte til VestliFest</tittel>
+    <offentligTittel>Støtte til VestliFest</offentligTittel>
+    <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Olsbø, Miriam</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201700371-8202-23-->
+      <systemID>55e1394c-964a-4799-8bdb-1b053dc5b155</systemID>
+      <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Olsbø, Miriam</opprettetAv>
+      <arkivertDato>2018-05-24T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-47</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Støtte til VestliFest</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>47</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009046-178448.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-178357</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>E-post fra Vestli Skoles foreldreutvalg: ber om økonomisk støtte til nærmiljøfest på Vestli skole - VestliFest</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>178357</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:08.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018008996-178357.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-178566</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>20180509_VestliFest_Til_Stovner_BU</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>178566</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-15T14:00:08.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009046-178566.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180361</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>VestliFest 20. juni 2018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>180361</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018010212-180361.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>1e841d6e-3a83-59cc-bf6a-3ae142976dca</registreringsID>
+      <tittel>Støtte til VestliFest</tittel>
+      <offentligTittel>Støtte til VestliFest</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>371</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-05-24+02:00</journaldato>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>371</sakssekvensnummer>
+    <saksdato>2018-05-24+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Olsbø, Miriam</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201800011-8247 (798fcdd0-6035-5f9e-bd70-283a692f896f)-->
+    <systemID>6ab17ee4-9ace-4e12-ad2a-36d1722badcc</systemID>
+    <mappeID>2018/11</mappeID>
+    <tittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</tittel>
+    <offentligTittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</offentligTittel>
+    <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Wasa Guro</opprettetAv>
+    <avsluttetDato>2018-06-06T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201800011-8249-26-->
+      <systemID>34166ba5-89c2-4fc1-8569-a269127e2c29</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Dørum Solveig</opprettetAv>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-16</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Referatsaker</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>16</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018010061-180111.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-178572</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Utbetaling av midler og oversikt over vedtak - nasjonal tilskuddsordning mot barnefattigdom 2018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>178572</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:08.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009117-178572.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-179680</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Språkkompetanse i barnehagene og i hjemmetjenesten</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>179680</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-19T22:05:03.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009770-179680.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-179184</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Nøkkeltall Bydel Stovner per 30042018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>179184</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-19T22:05:03.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009478-179184.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-179100</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Oppfølging av verbalvedtak om Fossum aktivitetshus, norskopplæring og språktrening</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>179100</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009448-179100.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>72f04a0c-9870-51fa-b836-4165f73c629e</registreringsID>
+      <tittel>Referatsaker</tittel>
+      <offentligTittel>Referatsaker</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>11</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-06-06+02:00</journaldato>
+    </registrering>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201800011-8247-19-->
+      <systemID>2eeceb0a-0584-4f2f-9e33-02c884ae3fb4</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Wasa Guro</opprettetAv>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-17</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>17</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018010063-180104.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-177011</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Midlertidig møteprotokoll. MOK, 250418  1800, Møte.</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>177011</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T12:05:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018008254-177011.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>7e3742a2-bf4a-5b49-bc6e-330035b6d424</registreringsID>
+      <tittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</tittel>
+      <offentligTittel>Midlertidig protokoll fra møte i MOK 25042018 til godkjenning</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>11</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-06-06+02:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>11</sakssekvensnummer>
+    <saksdato>2018-06-06+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Wasa Guro</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201600330-8212 (b49da45e-6e08-5dbd-ad5d-e31e756d7c29)-->
+    <systemID>3e10e437-d8dd-4a25-88c9-3572c03fbbdf</systemID>
+    <mappeID>2016/330</mappeID>
+    <tittel>Styrking av barnevernets uteteam - forslag fra SV</tittel>
+    <offentligTittel>Styrking av barnevernets uteteam - forslag fra SV</offentligTittel>
+    <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Wasa Guro</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201600330-8212-24-->
+      <systemID>33f9ccaf-3b7d-485f-abbf-a7eb16e92aa5</systemID>
+      <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Wasa Guro</opprettetAv>
+      <arkivertDato>2018-05-24T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-63</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Styrking av barnevernets uteteam - forslag fra SV</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>63</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009510-179195.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>2e2a806c-cdff-5dcd-9909-cce71a11983e</registreringsID>
+      <tittel>Styrking av barnevernets uteteam - forslag fra SV</tittel>
+      <offentligTittel>Styrking av barnevernets uteteam - forslag fra SV</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>330</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-05-24+02:00</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>330</sakssekvensnummer>
+    <saksdato>2018-05-24+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Wasa Guro</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201800286-8241 (d138fbfa-0595-5d48-98f2-d9a3b806a105)-->
+    <systemID>04fc9c9a-5683-4b0b-acc1-6cfca1398001</systemID>
+    <mappeID>2018/286</mappeID>
+    <tittel>Stovner kirke foreslått nedlagt - konsekvenser</tittel>
+    <offentligTittel>Stovner kirke foreslått nedlagt - konsekvenser</offentligTittel>
+    <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Wasa Guro</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201800286-8241-25-->
+      <systemID>d478ac29-606c-47fd-aa40-b34577e0255d</systemID>
+      <opprettetDato>2018-06-06T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Wasa Guro</opprettetAv>
+      <arkivertDato>2018-06-06T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-4</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Stovner kirke foreslått nedlagt - konsekvenser</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>4</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009996-180034.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-179317</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra menigheten til Bydel Stovner om konsekvenser av nedlegging av Stovner kirke</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>179317</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-01T12:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009569-179317.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180362</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Oversendelse av kommentarer til Kirkebruksplanens foreløpige forslag for Høybråten, Fossum og Stovner menighet</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>180362</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018010213-180362.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180363</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Høybråten, Fossum og Stovner menighets uttalelse om kirkebruksplanen vedtatt 300518.docx</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>180363</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018010213-180363.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180365</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>En sterkere kirke i Oslo En felles uttalelse fra menighetene i Groruddalen prosti</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>180365</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018010213-180365.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-180367</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra menigheten til Bydel Stovner om konsekvenser av nedlegging av Stovner kirke</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>180367</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018010213-180367.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>4b241cd9-c156-5228-949b-251be4818074</registreringsID>
+      <tittel>Stovner kirke foreslått nedlagt - konsekvenser</tittel>
+      <offentligTittel>Stovner kirke foreslått nedlagt - konsekvenser</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>286</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-06-06+02:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>286</sakssekvensnummer>
+    <saksdato>2018-06-06+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Wasa Guro</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201600136-8215 (16a333dc-96c6-5fb1-8cb0-4e94c38c7e8e)-->
+    <systemID>2d90b738-b070-48ba-8e82-388b98279b1d</systemID>
+    <mappeID>2016/136</mappeID>
+    <tittel>Barnehageutvikling i Bydel Stovner</tittel>
+    <offentligTittel>Barnehageutvikling i Bydel Stovner</offentligTittel>
+    <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Wasa Guro</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201600136-8215-20-->
+      <systemID>f40bc22c-7208-4fe1-bc90-53d261c9ea2b</systemID>
+      <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Wasa Guro</opprettetAv>
+      <arkivertDato>2018-05-24T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-30</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Barnehageutvikling i Bydel Stovner</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>30</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009554-179301.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-179302</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Vedlegg - beskrivelse av aktuelle tomter til barnehage</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>179302</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-15T14:00:09.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/0/VEDLEGG/2018009554-179302.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>9645f8f6-606c-5f56-ae95-d900ee8dbde1</registreringsID>
+      <tittel>Barnehageutvikling i Bydel Stovner</tittel>
+      <offentligTittel>Barnehageutvikling i Bydel Stovner</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>136</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-05-24+02:00</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>136</sakssekvensnummer>
+    <saksdato>2018-05-24+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Wasa Guro</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201800041-8204 (0d8367ee-ea35-58d0-a303-d91afc2b3981)-->
+    <systemID>6fbad06e-86fa-4dc1-a5fe-52759d74216e</systemID>
+    <mappeID>2018/41</mappeID>
+    <tittel>Arrangementer og støtte til frivilligheten i 2018</tittel>
+    <offentligTittel>Arrangementer og støtte til frivilligheten i 2018</offentligTittel>
+    <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Naveen, Neha</opprettetAv>
+    <avsluttetDato>2018-06-14T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201800041-8204-22-->
+      <systemID>c5d3f298-3517-4970-b1c3-0ea5baef828e</systemID>
+      <opprettetDato>2018-05-24T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Naveen, Neha</opprettetAv>
+      <arkivertDato>2018-05-24T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-874778842-129</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Arrangementer og støtte til frivilligheten i 2018</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>1900-01-01T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>129</dokumentnummer>
+        <tilknyttetDato>2018-06-06T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>docx</format>
+          <opprettetDato>2018-06-05T20:35:05.000+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Bsr/2018/MOK/2018009129-178589.docx</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>b2ef8666-e1e7-5d93-8d19-45842f6098f9</registreringsID>
+      <tittel>Arrangementer og støtte til frivilligheten i 2018</tittel>
+      <offentligTittel>Arrangementer og støtte til frivilligheten i 2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>41</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-05-24+02:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>41</sakssekvensnummer>
+    <saksdato>2018-05-24+02:00</saksdato>
+    <administrativEnhet>874778842</administrativEnhet>
+    <saksansvarlig>Naveen, Neha</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+</arkiv>

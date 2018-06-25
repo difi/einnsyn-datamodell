@@ -1,0 +1,3059 @@
+<!--Generert av DKI-API. SIPS link: https://www.oslo.kommune.no/sru/utv_meetinfo.asp?meetid=1117610&db_source=2-->
+<arkiv xmlns="http://www.arkivverket.no/standarder/noark5/arkivstruktur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--DKI namespace-->
+  <systemID>73dd888c-1fe6-45fe-8e10-b88569d35dc3</systemID>
+  <tittel>eInnsyn arkiv for virksomhet 976819853</tittel>
+  <arkivstatus>Opprettet</arkivstatus>
+  <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+  <opprettetAv>eInnsyn</opprettetAv>
+  <avsluttetAv>Ukjent</avsluttetAv>
+  <arkivskaper>
+    <arkivskaperID>0001</arkivskaperID>
+    <arkivskaperNavn>Ukjent</arkivskaperNavn>
+  </arkivskaper>
+  <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--MM-1117610-FKOM (31d4be6a-6974-59c8-aae0-f32a09247bf1)-->
+    <systemID>5ed1fab3-1fe6-4438-89ba-b056f9b628c0</systemID>
+    <mappeID>5ed1fab3-1fe6-4438-89ba-b056f9b628c0</mappeID>
+    <tittel>Møte</tittel>
+    <offentligTittel>Møte</offentligTittel>
+    <beskrivelse>Avholdt</beskrivelse>
+    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv/>
+    <avsluttetDato>2018-01-18T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1117610-FKOM-DB-976819853-1232828 (0d8f02ec-a7e9-5a9c-a575-131bb7d2e52a)-->
+      <systemID>4104b743-78bd-45be-97bd-109e31d412ad</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232828</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Sakskart I. Finanskomiteen 18012018</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:33.813+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232828</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:26:37.953+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232828_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>4104b743-78bd-45be-97bd-109e31d412ad</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1117610-FKOM-DB-976819853-1233169 (5256cd69-c054-58a1-a013-0a125ce5c8b8)-->
+      <systemID>3ce42b87-7556-487f-8fd1-5da8a37035dd</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233169</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Sakskart II Unntatt offentlighet. Finanskomiteen 18012018 - Dokument er unntatt offentlighet - Offl. § 18</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:33.860+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233169</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+      </dokumentbeskrivelse>
+      <registreringsID>3ce42b87-7556-487f-8fd1-5da8a37035dd</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1117610-FKOM-DB-976819853-1233520 (ff9ea11b-fee8-580e-b0b9-5c79434eb7bc)-->
+      <systemID>f73271fb-6eec-4ff1-956e-2b0d2a091234</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233520</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Sakskart III. Finanskomiteen 18012018</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:33.907+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233520</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:26:38.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1233520_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>f73271fb-6eec-4ff1-956e-2b0d2a091234</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1117610-FKOM-DB-976819853-1234137 (4d140563-1407-5841-9fad-3dd69639d808)-->
+      <systemID>d4581a79-ac07-49c6-b8ec-d7a055c96e6d</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234137</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll. finanskomiteen 18012018</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:33.953+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234137</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:26:38.043+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234137_10_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>d4581a79-ac07-49c6-b8ec-d7a055c96e6d</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Protokoll</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1117610-FKOM-DB-976819853-1234217 (bc20ee26-6276-5668-98cb-455336a2b75d)-->
+      <systemID>39d46715-83af-4a6a-82f2-16c11767db88</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234217</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll 2 finanskomiteen 18012018</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:34.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234217</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:26:38.397+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234217_3_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>39d46715-83af-4a6a-82f2-16c11767db88</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Protokoll</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800024-1128646-1 (2a5b1cc9-4e2b-550e-b2e3-06338fc4a28a)-->
+      <systemID>786062d1-6433-418f-95e7-e4f57b459481</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234319</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.420+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234319</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:28.103+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234319_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>1/2018</registreringsID>
+      <tittel>Protokoll fra finanskomiteens møte 07.12.2017</tittel>
+      <offentligTittel>Protokoll fra finanskomiteens møte 07.12.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800024-1128646-1 (58e45b03-6702-582b-9951-2fdfabbd4df2)-->
+      <referanseTilMoetesak>cf8bbce6-b6dc-41ee-9e88-4a2fc10f0a96</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>24</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1702612-1126880-2 (cbe4772d-8f51-53f8-9055-cc75102160b1)-->
+      <systemID>231f1864-1739-4e8e-86a8-5943ecfc3936</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234292</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.853+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234292</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.573+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234292_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>2/2018</registreringsID>
+      <tittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</tittel>
+      <offentligTittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1702612-1126880-2 (c1fd45ef-fbf6-5f52-baeb-4737113657f3)-->
+      <referanseTilMoetesak>c2ebc79c-eb25-4182-8a0e-9941bd6a04db</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>2612</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800026-1128729-3 (8b85cadb-b200-5f1e-989f-cefcb3c0f9f3)-->
+      <systemID>c1853d45-aa5b-4d73-8cfb-212617a32efd</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234293</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.900+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234293</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.617+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234293_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>3/2018</registreringsID>
+      <tittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</tittel>
+      <offentligTittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800026-1128729-3 (585fc673-bde5-58c2-8eed-2391eb941039)-->
+      <referanseTilMoetesak>88d5029f-2cd8-4543-a73b-ec628b0636bd</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>26</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1701706-1115754-4 (bed61409-d631-5721-9a63-7831a77a5fc7)-->
+      <systemID>54fe702d-4b38-4d5b-a348-03f9561b8872</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234294</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.950+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234294</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.660+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234294_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>4/2018</registreringsID>
+      <tittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</tittel>
+      <offentligTittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1701706-1115754-4 (1c83138e-13ef-5dbc-a937-4698bd25828c)-->
+      <referanseTilMoetesak>15e7808e-07f6-4b56-bf99-66963d4e3ee4</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>1706</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800029-1128868-5 (3f957133-9f98-5726-a14c-fb7bb19f0c79)-->
+      <systemID>b41c3317-aeb3-4121-afed-95de54d3eebe</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234295</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.997+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234295</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.707+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234295_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>5/2018</registreringsID>
+      <tittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</tittel>
+      <offentligTittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800029-1128868-5 (e4650c8e-eb8e-5850-8c2e-3f82b8bc40a6)-->
+      <referanseTilMoetesak>c6b5285b-5f2f-41c4-97ee-5e579eca13ed</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>29</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800032-1128873-6 (8ef1c57f-6e65-50b6-8901-24016490ee5a)-->
+      <systemID>63521a5c-44c8-4275-8cd7-9fe2c774d544</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234296</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.043+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234296</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.750+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234296_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>6/2018</registreringsID>
+      <tittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</tittel>
+      <offentligTittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800032-1128873-6 (254a5f0d-59e0-5797-a47c-a71cc7c44d9c)-->
+      <referanseTilMoetesak>cc7faf04-02f3-4251-9686-5b87cf55b4fc</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>32</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1700801-1105515-7 (778a868a-eaf8-511d-b69f-ff15968fbddb)-->
+      <systemID>f020910d-ba1e-4236-8782-1152b89f3ca4</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234297</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.090+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234297</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.793+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234297_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>7/2018</registreringsID>
+      <tittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</tittel>
+      <offentligTittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1700801-1105515-7 (68a8082b-1288-5876-a210-08d7fddf4dda)-->
+      <referanseTilMoetesak>4a569ac0-abc0-48a4-8f7f-2791c34aca5c</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>801</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1500468-1128641-8 (b15bb64d-a8a8-563e-a083-0be88ed63c6b)-->
+      <systemID>5acf42f6-a9f0-4b9d-81ab-5c6148e5453e</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234298</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.137+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234298</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.840+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234298_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>8/2018</registreringsID>
+      <tittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</tittel>
+      <offentligTittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1500468-1128641-8 (54fca0e0-ab45-50a1-9086-eddb7e3f4693)-->
+      <referanseTilMoetesak>205c62d7-2a98-4535-b5f1-2621781dade1</referanseTilMoetesak>
+      <moetesaksaar>2015</moetesaksaar>
+      <moetesakssekvensnummer>468</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1702733-1128643-9 (2fa785d4-30db-5bee-b05f-ffc94460857d)-->
+      <systemID>925249c5-553a-4f2a-b3ab-93ad5415a28b</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234299</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.180+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234299</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.883+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234299_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>9/2018</registreringsID>
+      <tittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</tittel>
+      <offentligTittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1702733-1128643-9 (167e7d19-4472-5cdb-b0e8-0d382dffc2fc)-->
+      <referanseTilMoetesak>c3ccb318-13ba-4a3e-8531-90ec91c3a77d</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>2733</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800077-1128978-10 (b0e764c5-6ffb-5b61-8db3-c2ac8c988eea)-->
+      <systemID>b6eeaced-a213-4f95-96a7-b4cd730c3eaa</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234300</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.230+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234300</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.927+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234300_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>10/2018</registreringsID>
+      <tittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</tittel>
+      <offentligTittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Inger Kvannes</saksbehandler>
+      <!--JP-1800077-1128978-10 (4d43ba61-3759-522c-8bca-ec4a2a7f28dd)-->
+      <referanseTilMoetesak>c9197038-2d24-417e-b201-447fda02d7bc</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>77</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800048-1129244-11 (961b7779-f26b-5052-b109-b54ee467a2b3)-->
+      <systemID>0830d389-1d49-40e2-aec4-855d3b45fcba</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234229</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.810+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234229</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.530+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234229_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>11/2018</registreringsID>
+      <tittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</tittel>
+      <offentligTittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800048-1129244-11 (34553473-b494-5789-a37e-ecaa82b599b2)-->
+      <referanseTilMoetesak>82b66551-792c-44a2-93a2-9757168dd626</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>48</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1702308-1129423-12 (5e3850f0-993a-5a10-8130-0fa59f4bc6aa)-->
+      <systemID>426b82a5-0a08-4f87-96fd-fd4758df1d0b</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234307</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.277+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234307</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:27.970+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234307_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>12/2018</registreringsID>
+      <tittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</tittel>
+      <offentligTittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1702308-1129423-12 (b92b5842-f136-50eb-9bf1-24fa62e9c38f)-->
+      <referanseTilMoetesak>5e37666e-6675-41b5-89cc-de70fc4451da</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>2308</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1702308-1129418-13 (75cbff47-464c-5546-8b6d-46ea9bdeba91)-->
+      <systemID>b4c09509-4473-426d-9645-23551ab66990</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234308</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.330+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234308</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:28.013+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234308_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>13/2018</registreringsID>
+      <tittel>Fritak for eiendomsskatt etter eiendomsskatteloven § 7 i 2018 - Byrådssak 7 av 11.01.2018</tittel>
+      <offentligTittel>Fritak for eiendomsskatt etter eiendomsskatteloven § 7 i 2018 - Byrådssak 7 av 11.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1702308-1129418-13 (b45995d0-a427-5fee-9a02-b8bf17b17812)-->
+      <referanseTilMoetesak>4d486697-5acb-4d58-a2f9-afb66665b638</referanseTilMoetesak>
+      <moetesaksaar>2017</moetesaksaar>
+      <moetesakssekvensnummer>2308</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-1117610-1800122-1129428-14 (8ada464a-95eb-52b3-94fd-8fff392690f0)-->
+      <systemID>0dc12d0c-94c1-43a9-a45e-a5c7c084aa42</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1234309</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:59.373+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1234309</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:28.060+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1234309_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>14/2018</registreringsID>
+      <tittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</tittel>
+      <offentligTittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Elin Frager</saksbehandler>
+      <!--JP-1800122-1129428-14 (df750b52-d111-5e3c-9e0d-ad715c9e1e93)-->
+      <referanseTilMoetesak>e30c55f1-9d0b-4c20-b07a-8d58ec605089</referanseTilMoetesak>
+      <moetesaksaar>2018</moetesaksaar>
+      <moetesakssekvensnummer>122</moetesakssekvensnummer>
+    </registrering>
+    <moetenummer/>
+    <utvalg>FKOM</utvalg>
+    <moetedato>2018-01-18T16:30:00.000+01:00</moetedato>
+    <moetested>Formannskapssalen</moetested>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800024-1128646 (064fcd78-b4cc-5286-a265-178c2cef89db)-->
+    <systemID>3d5a26ad-ec03-4656-b0f1-54ee1f721898</systemID>
+    <mappeID>2018/24</mappeID>
+    <tittel>Protokoll fra finanskomiteens møte 07.12.2017</tittel>
+    <offentligTittel>Protokoll fra finanskomiteens møte 07.12.2017</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-18T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800024-1128646-1-->
+      <systemID>cf8bbce6-b6dc-41ee-9e88-4a2fc10f0a96</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232133</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.057+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232133</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.240+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232133_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229650</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll. finanskomiteen 07122017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.103+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229650</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.283+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229650_16_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>58e45b03-6702-582b-9951-2fdfabbd4df2</registreringsID>
+      <tittel>Protokoll fra finanskomiteens møte 07.12.2017</tittel>
+      <offentligTittel>Protokoll fra finanskomiteens møte 07.12.2017</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>24</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>24</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800026-1128729 (4318817b-61a2-55f5-9970-8eb0ecd3ef8d)-->
+    <systemID>39c5455d-acc9-49c3-bbe1-51f017382a04</systemID>
+    <mappeID>2018/26</mappeID>
+    <tittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</tittel>
+    <offentligTittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-02-28T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800026-1128729-3-->
+      <systemID>88d5029f-2cd8-4543-a73b-ec628b0636bd</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232292</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.553+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232292</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.330+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232292_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232188</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomheter - Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.570+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232188</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-04-27T20:57:57.970+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232188_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1239527</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Merknad fra R</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.587+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1239527</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-04-27T20:57:57.980+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_02/1239527_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>585fc673-bde5-58c2-8eed-2391eb941039</registreringsID>
+      <tittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</tittel>
+      <offentligTittel>Rapport 18/2017 - Tiltak mot arbeidslivskriminalitet i tolv virksomhet – Med vekt på lønns- og arbeidsvilkår - Kontrollutvalgets sak 92 av 19.12.2017</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>26</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>26</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800048-1129244 (723d9a05-0119-5a4f-a275-d31e0360065b)-->
+    <systemID>d314fd72-b258-49b6-af6e-b57d61d9ec42</systemID>
+    <mappeID>2018/48</mappeID>
+    <tittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</tittel>
+    <offentligTittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800048-1129244-11-->
+      <systemID>82b66551-792c-44a2-93a2-9757168dd626</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233079</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.880+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233079</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.670+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1233079_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232395</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 5/2018 - Rettstvist - Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.927+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232395</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.713+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232395_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232396</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>5 Avtale d. 25.10.2017 mellom Oslo kommune og Norsk Sykepleierforbund og Tori Staff Reiremo m.fl. (ikke publisert vedlegg)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.970+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232396</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.757+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232396_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>34553473-b494-5789-a37e-ecaa82b599b2</registreringsID>
+      <tittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</tittel>
+      <offentligTittel>Rettstvist -  Avtale om etterinnmelding i Oslo kommunes tjenestepensjonsordning - Byrådssak 5 av 04.01.2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>48</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201700869-18874-5 (f110fe3b-1e49-54f5-9e83-3742b11fed1e)-->
+      <foelgsakenreferanse>a528c1fe-7a3b-4243-9e21-8937d4cba6ca</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>48</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800032-1128873 (9625d427-3e5d-5633-98b6-b89b038e049f)-->
+    <systemID>0e5a4d2a-7ced-47e2-96a2-d4c09b33b3f8</systemID>
+    <mappeID>2018/32</mappeID>
+    <tittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</tittel>
+    <offentligTittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800032-1128873-6-->
+      <systemID>cc7faf04-02f3-4251-9686-5b87cf55b4fc</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232585</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.777+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232585</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.910+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232585_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232378</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 4/2018 - Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.823+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232378</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.957+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232378_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232379</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 1. Utbyggingsavtale datert 23.08.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.870+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232379</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232379_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232380</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 2. Tilleggsavtale datert 12.12.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.917+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232380</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.043+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232380_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232381</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 3. Løren og Økern. Veiledende plan for det offentlige rom</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.963+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232381</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.090+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232381_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232382</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 4. Usikkerhetsanalyse VPOR Løren og Økern</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.317+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232382</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.133+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232382_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232383</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 5. Reguleringsplan for Lørenfaret 1-3</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.367+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232383</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.177+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232383_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232384</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 6. Kartskisse - eiendommen</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.413+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232384</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.223+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232384_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232385</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 7. Kartskisse - kontantbidragstiltak</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.460+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232385</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.267+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232385_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232386</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 8. Kartskisse - realytelser</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.507+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232386</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.310+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232386_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232387</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 9. Fullmakt av 10.02.17 fra Lørenfaret 1 AS, Lørenfaret 3 AS, Lørenfaret Eiendom II AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.553+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232387</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.357+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232387_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232388</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 10. Garasjeavtale med vedlegg 1-5</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.603+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232388</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.400+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232388_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232389</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 11. Firmaattest for Oslo Pensjonsforsikring AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.650+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232389</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.447+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232389_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232390</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 12. Firmaattest for Lørenfaret 3 AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.697+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232390</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.493+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232390_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232391</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 13. Firmaattest for Lørenfaret 1 AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.743+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232391</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.537+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232391_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232392</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>4 14. Firmaattest for Lørenfaret Eiendom II AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.790+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232392</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.580+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232392_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>254a5f0d-59e0-5797-a47c-a71cc7c44d9c</registreringsID>
+      <tittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</tittel>
+      <offentligTittel>Løren - Utbyggingsavtale til gjennomføring av reguleringsplan for Lørenfaret 1-3 - Byrådssak 4 av 04.01.2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>32</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201502929-18909-4 (d8dd1c1b-1d7a-5a52-b77c-c3c3aa4814c6)-->
+      <foelgsakenreferanse>af2a978f-d2d5-480f-9610-257f4651100d</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>32</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800077-1128978 (cf9fa33d-5be5-5203-89c6-4a93ee7d4d6f)-->
+    <systemID>2cc13e5c-20c5-4495-9b87-38a3c9f43968</systemID>
+    <mappeID>2018/77</mappeID>
+    <tittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</tittel>
+    <offentligTittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Inger Kvannes</opprettetAv>
+    <avsluttetDato>2018-01-18T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800077-1128978-10-->
+      <systemID>c9197038-2d24-417e-b201-447fda02d7bc</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Inger Kvannes</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232738</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:56.833+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232738</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.627+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232738_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>4d43ba61-3759-522c-8bca-ec4a2a7f28dd</registreringsID>
+      <tittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</tittel>
+      <offentligTittel>Møteplan for finanskomiteen - endring av møtedato for mars 2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>77</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>77</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Inger Kvannes</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800122-1129428 (7c20527e-1f01-587f-897a-9a2548f36612)-->
+    <systemID>b0d6b9d3-020c-40c0-aaa7-9be20b83e668</systemID>
+    <mappeID>2018/122</mappeID>
+    <tittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</tittel>
+    <offentligTittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800122-1129428-14-->
+      <systemID>e30c55f1-9d0b-4c20-b07a-8d58ec605089</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233350</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.270+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233350</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.117+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1233350_4_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233205</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak14/2018 - Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.317+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233205</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.460+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233205_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233206</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>14 1. Leiekontrakt mellom Oslo kommune og DNT Oslo og Omegn for Fuglermyrhytta for perioden 01.09.2018-31.08.2058.</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.667+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233206</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.503+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233206_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233207</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>14 2. Godkjennelse av rive- og byggesøknad etter Markaloven - Fuglehytta Vettakollen, datert 22.06.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.713+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233207</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.547+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233207_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233208</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>14 3. Fylkesmannens uttalelse, datert 14.06.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.760+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233208</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.590+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233208_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>df750b52-d111-5e3c-9e0d-ad715c9e1e93</registreringsID>
+      <tittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</tittel>
+      <offentligTittel>Fuglemyrhytta i Nordmarka - Ubetjent turisthytte - 40 års leieavtale med DNT Oslo og Omegn - Byrådssak 14 av 11.01.2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>122</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201701794-18917-14 (77371ffd-8e61-52d5-8ffa-b34ddda5d09b)-->
+      <foelgsakenreferanse>f6a3ee71-7505-4494-ab1a-213b73cb217b</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>122</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1500468-1128641 (a762be29-2dd6-58b5-a8cf-e6f90be8b9b4)-->
+    <systemID>138670f3-8c9a-4861-bc5d-8657bd21c110</systemID>
+    <mappeID>2015/468</mappeID>
+    <tittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</tittel>
+    <offentligTittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-02-28T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1500468-1128641-8-->
+      <systemID>205c62d7-2a98-4535-b5f1-2621781dade1</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232131</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.513+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232131</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.083+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232131_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1231724</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Oppfølgning etter rapport 4/2015 - Oppfølgning av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.527+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1231724</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-04-27T20:57:57.930+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1231724_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1239528</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Merknad fra R</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-04-27T20:56:34.540+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1239528</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-04-27T20:57:57.943+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_02/1239528_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>54fca0e0-ab45-50a1-9086-eddb7e3f4693</registreringsID>
+      <tittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</tittel>
+      <offentligTittel>Oppfølgning etter rapport 4/2015 Oppfølging av lønns- og arbeidsvilkår hos underleverandører - Kontrollutvalgets sak 98 av 19.12.2017</offentligTittel>
+      <journalaar>2015</journalaar>
+      <journalsekvensnummer>468</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2015</saksaar>
+    <sakssekvensnummer>468</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1700801-1105515 (7049c68e-f435-5925-979f-c301ffa58373)-->
+    <systemID>b2894897-cbbe-4556-a0e4-7dd207a5b33b</systemID>
+    <mappeID>2017/801</mappeID>
+    <tittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</tittel>
+    <offentligTittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1700801-1105515-7-->
+      <systemID>4a569ac0-abc0-48a4-8f7f-2791c34aca5c</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1192372</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.210+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1192372</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:21.640+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2017_03/1192372_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1191000</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn - Anmodning om uttalelse</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.253+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1191000</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:21.683+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_03/1191000_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1194424</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 106/2017 - Kommunal forkjøpsrett til leiegårder -Forslag om endring av krav til garanti - Foreløpig svar på anmodning om uttalelse</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.300+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1194424</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:21.727+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_04/1194424_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1207367</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 181/2017 - Bruk av kommunal forkjøpsrett til leiegårder - Foreløpig svar på spørsmål fra Victoria Marie Evensen (A) og Ivar Johansen</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.350+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1207367</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:21.770+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_06/1207367_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1218556</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 265/2017 - Bruk av kommunal forkjøpsrett til leiegårder - Svar på spørsmål fra Victoria Marie Evensen (A) og Ivar Johansen (SV)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.393+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1218556</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:21.810+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_10/1218556_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1218564</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 266/2017 - Kommunal forkjøpsrett til leiegårder - Forslag om endring av krav til garanti fra leietakere i de tilfeller kjøpesummen i forkjøpssaker avgjøres ved skjønn - Svar på anmodning om uttalelse</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.440+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1218564</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.747+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_10/1218564_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>68a8082b-1288-5876-a210-08d7fddf4dda</registreringsID>
+      <tittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</tittel>
+      <offentligTittel>Privat forslag fra Bjørnar Moxnes (R), Eivor Evenrud (R) og Negar Enayati (R) av 20.03.2017 - Oslo kommune skal utsette kravet om garanti fra leieboerne i de tilfeller kjøpesummen i forkjøpsrettssaker avgjøres ved skjønn</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>801</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>801</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1701706-1115754 (48cf444e-2d3d-5804-89f5-b6f3dfd9fac4)-->
+    <systemID>5c4b47af-d820-4f64-8555-85b9dc550c28</systemID>
+    <mappeID>2017/1706</mappeID>
+    <tittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</tittel>
+    <offentligTittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1701706-1115754-4-->
+      <systemID>15e7808e-07f6-4b56-bf99-66963d4e3ee4</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1209717</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.487+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1209717</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.790+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2017_08/1209717_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1209701</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 146/2017 - Oppheving av regler om offentlighet i Oslo kommune</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.533+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1209701</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.837+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_08/1209701_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1209702</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>146 Regler for offentlighet i Oslo kommune</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.580+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1209702</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.880+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_08/1209702_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1214541</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innspill - Regler om offentlighet i Oslo kommune</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.623+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1214541</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.923+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_09/1214541_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1217802</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 34/2017 - Oppheving av regler om offentlighet - Foreløpig svar på anmodning om uttalelse til innspill fra finanskomiteens arbeidsutvalg</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.670+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1217802</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:22.967+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_09/1217802_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229040</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 331/2017 - Regler om offentlighet i Oslo kommune - Oppheving - Anmodning om byrådets uttalelse til innspill fra Norsk Presseforbund, Norsk Redaktørforening og Norsk Journalistlag</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.717+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229040</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.010+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229040_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>1c83138e-13ef-5dbc-a937-4698bd25828c</registreringsID>
+      <tittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</tittel>
+      <offentligTittel>Regler om offentlighet i Oslo kommune - Oppheving - Byrådssak 146 av 01.08.2017</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>1706</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-200901210-18677-146 (450d57fa-7313-5c6c-9cf0-6a51d2b0fabe)-->
+      <foelgsakenreferanse>01640626-ea9e-45c3-b694-e05b9ef7c7cd</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>1706</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1702308-1129423 (60586d80-6cbc-5d8f-a778-d34555237633)-->
+    <systemID>fc6b093d-8df8-4e1d-b970-695df7feb737</systemID>
+    <mappeID>2017/2308</mappeID>
+    <tittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</tittel>
+    <offentligTittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1702308-1129423-12-->
+      <systemID>5e37666e-6675-41b5-89cc-de70fc4451da</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233347</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:57.157+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233347</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.940+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1233347_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233254</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 6/2018 - Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:57.203+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233254</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.983+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233254_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233255</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>6 Begrunnelser for eiendommer som innstilles for medhold</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.177+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233255</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.027+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233255_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1235215</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Per Anders Langerød (A) - Vurdering av habilitet - Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:58.223+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1235215</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:26.070+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1235215_3_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>b92b5842-f136-50eb-9bf1-24fa62e9c38f</registreringsID>
+      <tittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</tittel>
+      <offentligTittel>Fritak for eiendomsskatt 2016, 2017 og 2018 etter eiendomsskatteloven § 7 - Byrådssak 6 av 11.01.2018</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>2308</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201700168-18926-6 (ee06142f-5f0c-5f27-bb0a-d543ef523236)-->
+      <foelgsakenreferanse>54eadcc3-c048-40dc-9fca-68d6835dae51</foelgsakenreferanse>
+    </registrering>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1702308-1129418-13-->
+      <systemID>4d486697-5acb-4d58-a2f9-afb66665b638</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233342</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:57.020+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1233342</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.807+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1233342_3_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233257</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 7/2018 - Fritak for eiendomsskatt etter eiendomsskatteloven § 7 i 2018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:57.063+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233257</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.850+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233257_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1233371</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Øystein Sundelin (H) - Vurdering av habilitet - Fritak for eiendomsskatt - Byrådssak 7/2018</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:57.110+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1233371</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:25.893+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1233371_3_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>b45995d0-a427-5fee-9a02-b8bf17b17812</registreringsID>
+      <tittel>Fritak for eiendomsskatt etter eiendomsskatteloven § 7 i 2018 - Byrådssak 7 av 11.01.2018</tittel>
+      <offentligTittel>Fritak for eiendomsskatt etter eiendomsskatteloven § 7 i 2018 - Byrådssak 7 av 11.01.2018</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>2308</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201706720-18925-7 (2717b39e-43e7-53a8-8157-97a837a36ce3)-->
+      <foelgsakenreferanse>cfbb4e06-5215-4e04-b7dd-38063db8a5a7</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>2308</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1800029-1128868 (dac5ced9-4e34-5a8c-b66e-0365a51c26be)-->
+    <systemID>b1fdb80a-356c-4690-930c-af03ac2be570</systemID>
+    <mappeID>2018/29</mappeID>
+    <tittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</tittel>
+    <offentligTittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-31T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1800029-1128868-5-->
+      <systemID>c6b5285b-5f2f-41c4-97ee-5e579eca13ed</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232582</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.240+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232582</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.393+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232582_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232368</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Byrådssak 3/2018 - Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.287+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232368</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.440+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232368_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232369</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>3 1. Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.633+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232369</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.780+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232369_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232370</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>3 2. E-post fra utleier vedrørende kostnadsoverslag</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.680+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232370</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.823+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232370_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232371</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>3 3. HSIL sine beregninger av 16.11.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:55.727+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1232371</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.867+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_01/1232371_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>e4650c8e-eb8e-5850-8c2e-3f82b8bc40a6</registreringsID>
+      <tittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</tittel>
+      <offentligTittel>Leieavtale mellom Oslo kommune og Haavard Martinsens vei 30 AS for Idrettens Hus Nordbyen - Byrådssak 3 av 04.01.2018</offentligTittel>
+      <journalaar>2018</journalaar>
+      <journalsekvensnummer>29</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+      <!--JP-201501623-18905-3 (66c15d20-8ab9-5cf5-af5e-9569246e68e1)-->
+      <foelgsakenreferanse>88ecee8f-cf51-4217-8699-dc49b1da22d3</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2018</saksaar>
+    <sakssekvensnummer>29</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1702612-1126880 (110d8cc6-6c1e-5c37-a662-267c5d3a1adf)-->
+    <systemID>69f685ae-5b84-42a8-bf4c-d975e162d1f4</systemID>
+    <mappeID>2017/2612</mappeID>
+    <tittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</tittel>
+    <offentligTittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-01-18T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1702612-1126880-2-->
+      <systemID>c2ebc79c-eb25-4182-8a0e-9941bd6a04db</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1228659</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.763+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1228659</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.053+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1228659_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1228593</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 105/2017 - Reservasjon av tid for ankebehandling fra Borgarting lamannsrett</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.857+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1228593</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.140+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1228593_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229328</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 42/2017 - Forslag fra Politidirektoratet til ny normalpolitivedtekt - Høringsuttalelse - Bruk av delegert fullmakt</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.810+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229328</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.097+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229328_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229382</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 347/2017 - Utbyggingsavtaler - Praksis med rekkefølgebestemmelser utenfor planområdet - Svar på spørsmål til byrådet fra Morten Steenstrup (H)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.387+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229382</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.950+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229382_2_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229613</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 112/2017 - Obosleilighetene og Lambda/Tøyen-avtalen - Svar på spørsmål til byrådet fra Camilla Wilhelmsen (F)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.297+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229613</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.567+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229613_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1229716</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 113/2017 - Boligbyggs kjøp av leiligheter - rapport fra BDO</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.340+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1229716</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.610+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1229716_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1230029</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 254/2017 - Høring NOU 2017:8 - Særdomstoler på nye områder</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.437+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1230029</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.993+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1230029_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1230141</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 107/2017 - Sørbråten Velhus - Eiendomskatt - Svar på spørsmål fra Toril Berge Flatabø (V)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:53.903+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1230141</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.480+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1230141_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1230992</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 112/2017 - Budsjett 2018 - Pensjon - Svar på spørsmål til byrådet fra Frode Jacobsen (A)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.250+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1230992</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:23.523+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1230992_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1231563</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Notat 257/2017 - Vedrørende bebudet sak om Hagegata 30</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-14T10:26:54.480+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1231563</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.037+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1231563_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>c1fd45ef-fbf6-5f52-baeb-4737113657f3</registreringsID>
+      <tittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</tittel>
+      <offentligTittel>Spørsmål fra komiteen, notater og orientering fra byrådet - finanskomiteens møte 18.01.2018</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>2612</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>2612</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1702733-1128643 (65455456-9e30-539f-baef-11b154561bf8)-->
+    <systemID>8bcef571-6ed6-4536-aa3d-fb656e9f6f07</systemID>
+    <mappeID>2017/2733</mappeID>
+    <tittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</tittel>
+    <offentligTittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</offentligTittel>
+    <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Elin Frager</opprettetAv>
+    <avsluttetDato>2018-02-15T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1702733-1128643-9-->
+      <systemID>c3ccb318-13ba-4a3e-8531-90ec91c3a77d</systemID>
+      <opprettetDato>2018-01-18T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Elin Frager</opprettetAv>
+      <arkivertDato>2018-01-18T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1232132</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2018-02-16T09:38:59.813+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1232132</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-02-14T10:29:24.147+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Finanskomiteen/2018_01/1232132_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1231752</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innsyn i private virksomheter som utfører oppgaver for kommunen sendt fra Kontrollutvalget - Kontrollutvalgets sak 99 av 19.12.2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-16T09:38:59.827+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1231752</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-20T10:38:27.347+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2017_12/1231752_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1237151</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Svar på spørsmål om kommentar fra kommuneadvokaten i kontrollutvalgssak</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2018-02-16T09:38:59.840+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1237151</dokumentnummer>
+        <tilknyttetDato>2018-01-18T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2018-06-20T10:38:27.377+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>http://dkitest.oslo.kommune.no/dok/Vedlegg/2018_02/1237151_1_1.PDF</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>167e7d19-4472-5cdb-b0e8-0d382dffc2fc</registreringsID>
+      <tittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</tittel>
+      <offentligTittel>Innsyn i private virksomheter som utfører oppgaver for kommunen - Kontrollutvalgets sak 99 av 19.12.2017</offentligTittel>
+      <journalaar>2017</journalaar>
+      <journalsekvensnummer>2733</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2018-01-18+01:00</journaldato>
+    </registrering>
+    <saksaar>2017</saksaar>
+    <sakssekvensnummer>2733</sakssekvensnummer>
+    <saksdato>2018-01-18+01:00</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Elin Frager</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+</arkiv>
