@@ -286,7 +286,6 @@
             <xs:enumeration value="Protokoll"/>
             <xs:enumeration value="Innkalling"/>
             <xs:enumeration value="Tilleggsinnkalling"/>
-            <xs:enumeration value="Moetebok"/>
             <xs:enumeration value="Annet"/>
         </xs:restriction>
     </xs:simpleType>
@@ -309,7 +308,21 @@
             <xs:enumeration value="Gruppemottaker"/>
             <xs:enumeration value="Intern avsender"/>
             <xs:enumeration value="Intern mottaker"/>
+            <!-- Lagt til i NOARK v5.4 -->
+            <xs:enumeration value="Intern kopimottaker"/>
+            <xs:enumeration value="Medavsender"/>
         </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="korrespondansepartEnhetstype">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Person"/>
+            <xs:enumeration value="Organisasjon"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="organisasjonsnummer">
+        <xs:restriction base="xs:string"/>
     </xs:simpleType>
 
     <xs:simpleType name="moetesakstype">
@@ -321,6 +334,7 @@
             <xs:enumeration value="Referatsak"/>
             <xs:enumeration value="Delegert sak"/>
             <xs:enumeration value="Politisk sak"/>
+            <xs:enumeration value="Interpellasjon"/>
             <xs:enumeration value="Annet"/>
         </xs:restriction>
     </xs:simpleType>
@@ -481,7 +495,7 @@
         <xs:restriction base="uuid"/>
     </xs:simpleType>
 
-    <xs:simpleType name="referanseTilSak">
+    <xs:simpleType name="referanseTilMoetesak">
         <xs:restriction base="uuid"/>
     </xs:simpleType>
 
