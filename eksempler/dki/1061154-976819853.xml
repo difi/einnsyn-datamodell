@@ -1,0 +1,1313 @@
+<!--Generert av DKI-API. SIPS link: https://www.oslo.kommune.no/sru/utv_meetinfo.asp?meetid=1061154&db_source=2-->
+<arkiv xmlns="http://www.arkivverket.no/standarder/noark5/arkivstruktur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--AR-976819853 (be10e032-0540-519a-93dc-00d830919540)-->
+  <systemID>b4560611-78cb-4be8-8fdd-7f2466daad3f</systemID>
+  <tittel>eInnsyn arkiv for virksomhet 976819853</tittel>
+  <arkivstatus>Opprettet</arkivstatus>
+  <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+  <opprettetAv>eInnsyn</opprettetAv>
+  <avsluttetAv>Ukjent</avsluttetAv>
+  <arkivskaper>
+    <arkivskaperID>0001</arkivskaperID>
+    <arkivskaperNavn>Ukjent</arkivskaperNavn>
+  </arkivskaper>
+  <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--MM-976819853-1061154-FUV (e3787351-f3aa-58bc-9a42-98d65aa2d15b)-->
+    <systemID>b3a2843f-16f5-48a2-8518-cacd3e149e88</systemID>
+    <mappeID>b3a2843f-16f5-48a2-8518-cacd3e149e88</mappeID>
+    <tittel>Møte</tittel>
+    <offentligTittel>Møte</offentligTittel>
+    <beskrivelse>Avholdt</beskrivelse>
+    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv/>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1061154-FUV-DB-976819853-1139859 (d9971fbe-2065-52c3-ae5f-e7bb0e6eb180)-->
+      <systemID>608bae98-52de-4f2f-a5a1-bd388da291b6</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139859</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Sakskart I. Forretningsutvalget 18042016</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2016-04-20T09:47:48.477+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139859</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:47:49.580+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139859_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>608bae98-52de-4f2f-a5a1-bd388da291b6</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Innkalling</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-1061154-FUV-DB-976819853-1140183 (3633d1ed-3b34-5e30-9879-fd1a1129b96b)-->
+      <systemID>1c8db83b-2b48-4c46-a5ac-47afd8f274f7</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140183</systemID>
+        <dokumenttype>M</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll. Forretningsutvalget 18042016</tittel>
+        <beskrivelse>Møtedokument</beskrivelse>
+        <opprettetDato>2016-04-20T09:47:48.570+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140183</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:47:49.670+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140183_6_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>1c8db83b-2b48-4c46-a5ac-47afd8f274f7</registreringsID>
+      <tittel>Møte</tittel>
+      <offentligTittel>Møte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Protokoll</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600692-1072649-129 (163c5b40-cfa6-51af-894d-bf51f9af28f7)-->
+      <systemID>330c18ab-42a4-4ddc-99bf-77bbe40a6b85</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140325</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.473+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140325</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.807+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140325_2_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>129/2016</registreringsID>
+      <tittel>Protokoll fra forretningsutvalgets møte 11. april 2016</tittel>
+      <offentligTittel>Protokoll fra forretningsutvalgets møte 11. april 2016</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Hanne Bråthen Dverseth</saksbehandler>
+      <!--JP-1600692-1072649 (3a619626-1d4f-5107-ad5c-27d4d98c3f33)-->
+      <referanseTilMoetesak>ab994d68-2d39-4078-9765-5fbc54cff3c0</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>129</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600007-1071717-130 (2e24d64f-1f77-500a-9d58-64f72ac53cf6)-->
+      <systemID>86ec7166-a45f-4aac-a722-bfda1a637fc7</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140324</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.387+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140324</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.740+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140324_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>130/2016</registreringsID>
+      <tittel>Oslo bystyres deltakelse i Kieler Woche</tittel>
+      <offentligTittel>Oslo bystyres deltakelse i Kieler Woche</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Else Gro Glosvik</saksbehandler>
+      <!--JP-1600007-1071717 (531e334a-182a-5514-99ed-924c48cd0b86)-->
+      <referanseTilMoetesak>1c58c5aa-9714-4372-96ae-08037513fa6c</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>130</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600165-1068068-131 (bc595851-b6c0-5f0d-b8bb-d4e74f154713)-->
+      <systemID>c25d24e2-1507-409e-8dff-caca69c11593</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140326</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.557+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140326</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.867+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140326_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>131/2016</registreringsID>
+      <tittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</tittel>
+      <offentligTittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Rebecca Eye Færavaag</saksbehandler>
+      <!--JP-1600165-1068068 (b1292cf8-60df-5cab-8cf2-d9740a432c08)-->
+      <referanseTilMoetesak>b139398c-e452-4521-bfac-9623f06bb2fd</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>131</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600687-1072592-132 (202d2d6f-8a30-5ebd-811b-73921766ec5e)-->
+      <systemID>34f5a167-c154-43e1-813d-7d674cf1bffd</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140327</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.630+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140327</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.927+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140327_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>132/2016</registreringsID>
+      <tittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</tittel>
+      <offentligTittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Rebecca Eye Færavaag</saksbehandler>
+      <!--JP-1600687-1072592 (9a9cabbd-2316-57e0-826b-a0b974103576)-->
+      <referanseTilMoetesak>49dfc34a-300a-4158-9c5b-d64ab733a7e1</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>132</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600183-1068608-133 (a73a86bb-756f-5045-8ac2-a3f3a9546c6f)-->
+      <systemID>27f03dcf-82e1-441b-8baf-1eb59967266a</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140328</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.703+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140328</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.990+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140328_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>133/2016</registreringsID>
+      <tittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</tittel>
+      <offentligTittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Hanne Bråthen Dverseth</saksbehandler>
+      <!--JP-1600183-1068608 (ed59f80e-598c-5831-a29c-01640ead271a)-->
+      <referanseTilMoetesak>dde2a916-e4f5-4eef-a3d6-f8a1d085948b</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>133</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600448-1070459-134 (cd283afc-ec62-59d0-9a46-e299aadfb8c9)-->
+      <systemID>19808c65-490a-4526-ad6a-dd30f5a7cc3f</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140329</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.777+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140329</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:22.053+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140329_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>134/2016</registreringsID>
+      <tittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</tittel>
+      <offentligTittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Rebecca Eye Færavaag</saksbehandler>
+      <!--JP-1600448-1070459 (ba1f8339-26f0-51aa-9032-c1edb2d97fff)-->
+      <referanseTilMoetesak>589a1ff5-cf3a-4608-8cea-36cfee9826f5</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>134</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600123-1072733-135 (9836c466-7df8-570a-b548-1f88a446d8bd)-->
+      <systemID>0b94cf5b-8d48-471f-bdc5-6361ce72b392</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140330</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.850+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140330</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:22.113+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140330_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>135/2016</registreringsID>
+      <tittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</tittel>
+      <offentligTittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Hanne Bråthen Dverseth</saksbehandler>
+      <!--JP-1600123-1072733 (4696698c-f1a2-5455-ae4b-5fdc7fed6f73)-->
+      <referanseTilMoetesak>1d0a48c5-34f3-463b-9621-c781fdc8231c</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>135</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600016-1072730-136 (ca1b38cd-9690-5994-ae9b-3eb9b10a9b06)-->
+      <systemID>31de3a8c-fdb8-4532-819c-d9df255ae340</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140331</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.923+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140331</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:22.180+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140331_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>136/2016</registreringsID>
+      <tittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</tittel>
+      <offentligTittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Hanne Bråthen Dverseth</saksbehandler>
+      <!--JP-1600016-1072730 (e8756e74-04a9-557b-9ccc-aa5241a62cd0)-->
+      <referanseTilMoetesak>a3bedcec-fba5-4700-ada6-a6e31c8a7bb7</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>136</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819853-1061154-1600693-1072654-137 (bea104c9-2976-5e19-87a4-3a83fb10b33e)-->
+      <systemID>dec8fc2b-7749-4bb2-a835-ed6a13d7f53e</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1140332</systemID>
+        <dokumenttype>IN</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Innstilling/Vedtak</tittel>
+        <beskrivelse>Innstilling/Vedtak</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:06.000+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1140332</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:22.247+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1140332_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>137/2016</registreringsID>
+      <tittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</tittel>
+      <offentligTittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819853</administrativEnhet>
+      <saksbehandler>Hanne Bråthen Dverseth</saksbehandler>
+      <!--JP-1600693-1072654 (f502e2b1-bbda-5fd3-a342-bfaf417a15bc)-->
+      <referanseTilMoetesak>094c596f-a603-4954-a9d9-1388aa1cf58d</referanseTilMoetesak>
+      <moetesaksaar>2016</moetesaksaar>
+      <moetesakssekvensnummer>137</moetesakssekvensnummer>
+    </registrering>
+    <moetenummer/>
+    <utvalg>FUV</utvalg>
+    <moetedato>2016-04-18T14:00:00.000+02:00</moetedato>
+    <moetested>Ordførerens møterom</moetested>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600692-1072649 (47f8bbaa-14ed-56f2-aa68-8a415575c2b2)-->
+    <systemID>5cf47d0a-4275-4b71-bd27-209283181d21</systemID>
+    <mappeID>2016/692</mappeID>
+    <tittel>Protokoll fra forretningsutvalgets møte 11. april 2016</tittel>
+    <offentligTittel>Protokoll fra forretningsutvalgets møte 11. april 2016</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600692-1072649-->
+      <systemID>ab994d68-2d39-4078-9765-5fbc54cff3c0</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139579</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.840+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139579</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.290+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139579_2_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139459</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll. Forretningsutvalget 11042016</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.920+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1139459</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.357+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_04%2F1139459_3_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>3a619626-1d4f-5107-ad5c-27d4d98c3f33</registreringsID>
+      <tittel>Protokoll fra forretningsutvalgets møte 11. april 2016</tittel>
+      <offentligTittel>Protokoll fra forretningsutvalgets møte 11. april 2016</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>692</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>692</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Hanne Bråthen Dverseth</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600183-1068608 (4316dd8a-a5d4-55ac-b7bb-4883a017a527)-->
+    <systemID>b2457c76-1b00-4f61-97ec-8ee151379ce0</systemID>
+    <mappeID>2016/183</mappeID>
+    <tittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</tittel>
+    <offentligTittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600183-1068608-->
+      <systemID>dde2a916-e4f5-4eef-a3d6-f8a1d085948b</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1133351</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.000+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1133351</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.550+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1133351_10_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1129984</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.077+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1129984</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.623+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_01%2F1129984_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>ed59f80e-598c-5831-a29c-01640ead271a</registreringsID>
+      <tittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</tittel>
+      <offentligTittel>Melas åpningskonsert - søknad om disponering av Rådhushallen 19.08.2016</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>183</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>183</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Hanne Bråthen Dverseth</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600123-1072733 (16d12e16-2a9f-5a4c-a5a9-79e9d5f166b9)-->
+    <systemID>2d322faf-0f9a-4aa2-b520-d376a9eac48d</systemID>
+    <mappeID>2016/123</mappeID>
+    <tittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</tittel>
+    <offentligTittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600123-1072733-->
+      <systemID>1d0a48c5-34f3-463b-9621-c781fdc8231c</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139697</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.223+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139697</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.617+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139697_4_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139635</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Privat forslag fra Eirik Lae Solberg (H) og Pia Farstad von Hall (H) av 12.04.2016 - Strategi for bruk av elektriske ferger i Oslofjorden og tilrettelegging av landstrøm</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.300+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1139635</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.680+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_04%2F1139635_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>4696698c-f1a2-5455-ae4b-5fdc7fed6f73</registreringsID>
+      <tittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</tittel>
+      <offentligTittel>Privat forslag til fordeling - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>123</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>123</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Hanne Bråthen Dverseth</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600007-1071717 (e2010eb4-3ed1-5d40-89c5-24b3b280d11c)-->
+    <systemID>66239084-03b4-4346-9cda-f1df1af1355a</systemID>
+    <mappeID>2016/7</mappeID>
+    <tittel>Oslo bystyres deltakelse i Kieler Woche</tittel>
+    <offentligTittel>Oslo bystyres deltakelse i Kieler Woche</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Else Gro Glosvik</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600007-1071717-->
+      <systemID>1c58c5aa-9714-4372-96ae-08037513fa6c</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Else Gro Glosvik</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1138075</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.380+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1138075</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.893+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1138075_7_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1137559</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Invitasjon til Kieler Woche 2016 i Kiel Week 17.06. - 20.06.2016</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.460+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1137559</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.960+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_03%2F1137559_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1137560</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Englisch  Programm.doc</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.543+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1137560</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.023+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_03%2F1137560_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1137561</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Programm.doc</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.620+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1137561</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.087+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_03%2F1137561_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>531e334a-182a-5514-99ed-924c48cd0b86</registreringsID>
+      <tittel>Oslo bystyres deltakelse i Kieler Woche</tittel>
+      <offentligTittel>Oslo bystyres deltakelse i Kieler Woche</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>7</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>7</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Else Gro Glosvik</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600165-1068068 (d431eeb2-7487-54c6-a7ab-dcb5c97dfde7)-->
+    <systemID>b2e2196b-2b27-4375-aa36-6d433b43b23a</systemID>
+    <mappeID>2016/165</mappeID>
+    <tittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</tittel>
+    <offentligTittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600165-1068068-->
+      <systemID>b139398c-e452-4521-bfac-9623f06bb2fd</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1132366</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:03.853+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1132366</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.420+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1132366_27_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1129807</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>JM Norway (Jeunesses Musicales International) - Forespørsel om mottakelse i Oslo Rådhus 19.06.2017 - Generalforsamlingen for JMIs medlemsorganisasjoner</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:03.927+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1129807</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.483+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_01%2F1129807_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>b1292cf8-60df-5cab-8cf2-d9740a432c08</registreringsID>
+      <tittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</tittel>
+      <offentligTittel>Mottakelse i Oslo rådhus 19.06.2017 i anledning nettverket Jeunesses Musicales International (JMI) sin generalforsamling og konferanse</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>165</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>165</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Rebecca Eye Færavaag</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600693-1072654 (490e2eac-defd-5e7c-bc66-7cffc7b14972)-->
+    <systemID>146b5275-9312-4889-8f68-2c8eab841c0f</systemID>
+    <mappeID>2016/693</mappeID>
+    <tittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</tittel>
+    <offentligTittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600693-1072654-->
+      <systemID>094c596f-a603-4954-a9d9-1388aa1cf58d</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139583</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.997+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139583</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.427+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139583_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>f502e2b1-bbda-5fd3-a342-bfaf417a15bc</registreringsID>
+      <tittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</tittel>
+      <offentligTittel>Eventuelt - Forretningsutvalgets møte 18. april 2016</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>693</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>693</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Hanne Bråthen Dverseth</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600016-1072730 (39c494f4-b709-5c0f-91f3-7ea637cbe47d)-->
+    <systemID>ab99a2bb-34dd-42cf-b778-5bdbe0112fcf</systemID>
+    <mappeID>2016/16</mappeID>
+    <tittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</tittel>
+    <offentligTittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600016-1072730-->
+      <systemID>a3bedcec-fba5-4700-ada6-a6e31c8a7bb7</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Hanne Bråthen Dverseth</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139695</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.077+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139695</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.490+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139695_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139851</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll fra byrådets møte 14. april 2016</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:05.150+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1139851</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.557+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_04%2F1139851_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>e8756e74-04a9-557b-9ccc-aa5241a62cd0</registreringsID>
+      <tittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</tittel>
+      <offentligTittel>Protokoll fra byrådets møte 14. april 2016 - Fordeling av sak</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>16</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>16</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Hanne Bråthen Dverseth</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600687-1072592 (65c3e330-6d03-5d3f-887a-9927d0822cf8)-->
+    <systemID>f9625ae9-9cb8-46f8-ae43-1f7cfd6a9f64</systemID>
+    <mappeID>2016/687</mappeID>
+    <tittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</tittel>
+    <offentligTittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600687-1072592-->
+      <systemID>49dfc34a-300a-4158-9c5b-d64ab733a7e1</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139511</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.693+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1139511</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.153+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1139511_6_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1139489</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Bislett Games - Søknad om mottakelse i Oslo rådhus 08.06.206</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.767+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1139489</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:21.220+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_04%2F1139489_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>9a9cabbd-2316-57e0-826b-a0b974103576</registreringsID>
+      <tittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</tittel>
+      <offentligTittel>Bislett Games - Mottakelse i Oslo rådhus 08.06.2016</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>687</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>687</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Rebecca Eye Færavaag</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-1600448-1070459 (04aaa1ba-217f-5352-b9cb-aab63183d617)-->
+    <systemID>3ac17152-8f8c-4822-8f20-310894a49793</systemID>
+    <mappeID>2016/448</mappeID>
+    <tittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</tittel>
+    <offentligTittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</offentligTittel>
+    <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+    <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+    <avsluttetDato>2016-04-18T00:00:00.000+02:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-1600448-1070459-->
+      <systemID>589a1ff5-cf3a-4608-8cea-36cfee9826f5</systemID>
+      <opprettetDato>2016-04-18T00:00:00.000+02:00</opprettetDato>
+      <opprettetAv>Rebecca Eye Færavaag</opprettetAv>
+      <arkivertDato>2016-04-18T00:00:00.000+02:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1136257</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksframlegg</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.150+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>1136257</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.690+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=forretningsutvalget%2F2016_04%2F1136257_19_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1135364</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Mottakelse i Oslo rådhus 03.02.2017 - Konferanse i International Association of Tour Manager (IATM)</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.227+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1135364</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.760+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_03%2F1135364_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819853-1137372</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Søknad om mottakelse i Oslo rådhus i anledning "International Weekend" 2017</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2016-04-20T09:48:04.300+02:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>1137372</dokumentnummer>
+        <tilknyttetDato>2016-04-18T00:00:00.000+02:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2016-04-20T09:48:20.830+02:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819853&amp;filnavn=vedlegg%2F2016_03%2F1137372_1_1.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>ba1f8339-26f0-51aa-9032-c1edb2d97fff</registreringsID>
+      <tittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</tittel>
+      <offentligTittel>Mottakelse i Oslo rådhus - Internasjonal reiselivslederkonferanse 03.02.2017</offentligTittel>
+      <journalaar>2016</journalaar>
+      <journalsekvensnummer>448</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2016-04-18</journaldato>
+    </registrering>
+    <saksaar>2016</saksaar>
+    <sakssekvensnummer>448</sakssekvensnummer>
+    <saksdato>2016-04-18</saksdato>
+    <administrativEnhet>976819853</administrativEnhet>
+    <saksansvarlig>Rebecca Eye Færavaag</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+</arkiv>
