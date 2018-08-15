@@ -316,8 +316,8 @@
                     <xs:element name="administrativEnhet" type="n5mdk:administrativEnhet" minOccurs="0"/>
                     <xs:element name="saksbehandler" type="n5mdk:saksbehandler" minOccurs="0"/>
                     <xs:element name="referanseTilMoetesak" type="n5mdk:referanseTilMoetesak" minOccurs="0"/>
-                    <xs:element name="moetesaksaar" type="xs:integer" minOccurs="0"/>
-                    <xs:element name="moetesakssekvensnummer" type="xs:integer" minOccurs="0"/>
+                    <xs:element name="moetesaksaar" type="xs:integer"/>
+                    <xs:element name="moetesakssekvensnummer" type="xs:integer"/>
                     <xs:element name="moetesaksundersekvensnummer" type="xs:integer" minOccurs="0"/>
                 </xs:sequence>
             </xs:extension>
