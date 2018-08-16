@@ -1,0 +1,866 @@
+<!--Generert av DKI-API. SIPS link: https://www.oslo.kommune.no/sru/utv_meetinfo.asp?meetid=8249&db_source=1-->
+<arkiv xmlns="http://www.arkivverket.no/standarder/noark5/arkivstruktur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--AR-976819837 (305df70c-6683-5361-98a0-aafeb5eef606)-->
+  <systemID>683314f1-e2d0-4069-9fd7-74b8b373bca8</systemID>
+  <tittel>eInnsyn arkiv for virksomhet 976819837</tittel>
+  <arkivstatus>Opprettet</arkivstatus>
+  <opprettetDato>1990-01-01T00:00:00.000+01:00</opprettetDato>
+  <opprettetAv>eInnsyn</opprettetAv>
+  <avsluttetAv>Ukjent</avsluttetAv>
+  <arkivskaper>
+    <arkivskaperID>0001</arkivskaperID>
+    <arkivskaperNavn>Ukjent</arkivskaperNavn>
+  </arkivskaper>
+  <mappe xsi:type="ark:moetemappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--MM-976819837-8249-BR1 (3ae27c34-7d97-5862-8435-0efe4f7f7b21)-->
+    <systemID>45176e1f-6027-4387-b80c-da1ddb331dfd</systemID>
+    <mappeID>45176e1f-6027-4387-b80c-da1ddb331dfd</mappeID>
+    <tittel>Byrådsmøte</tittel>
+    <offentligTittel>Byrådsmøte</offentligTittel>
+    <beskrivelse>Avholdt</beskrivelse>
+    <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+    <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv/>
+    <avsluttetDato>2011-03-03T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:moetedokumentregistrering">
+      <!--MDR-8249-BR1-DB-976819837-870790 (b59066ee-99e1-5571-bedf-cf1f81181a31)-->
+      <systemID>7ee9b12d-2148-46b2-b829-c402e169cd5e</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870790</systemID>
+        <dokumenttype>MP</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll</tittel>
+        <beskrivelse>Protokoll</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>870790</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>htm</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011007090-870790.htm</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>7ee9b12d-2148-46b2-b829-c402e169cd5e</registreringsID>
+      <tittel>Byrådsmøte</tittel>
+      <offentligTittel>Byrådsmøte</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <administrativEnhet>976819837</administrativEnhet>
+      <saksbehandler>Ukjent</saksbehandler>
+      <moetedokumentregistreringstype>Protokoll</moetedokumentregistreringstype>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819837-8249-201003279-15488-41 (7fcac43a-91ba-5ee7-8ac9-77d578bcc9ea)-->
+      <systemID>32e15420-fe46-46ec-9c92-514f825a63a2</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870790</systemID>
+        <dokumenttype>MP</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll</tittel>
+        <beskrivelse>Protokoll</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>870790</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>htm</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011007090-870790.htm</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>41/2011</registreringsID>
+      <tittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</tittel>
+      <offentligTittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Behandlet i møte</moeteregistreringsstatus>
+      <administrativEnhet>976819837</administrativEnhet>
+      <saksbehandler>Simonnæs Kjersti</saksbehandler>
+      <!--JP-201003279-15488 (295e119c-3d02-5838-aa3a-fb80220ce7c8)-->
+      <referanseTilMoetesak>4b61a3ed-362c-445d-b434-c746a4d45df2</referanseTilMoetesak>
+      <moetesaksaar>2010</moetesaksaar>
+      <moetesakssekvensnummer>41</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819837-8249-201004225-15481-42 (2e493233-bee7-5d33-a644-451163c2cf4b)-->
+      <systemID>debc02f4-b128-4e31-a8b4-ae99b59421b6</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870790</systemID>
+        <dokumenttype>MP</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll</tittel>
+        <beskrivelse>Protokoll</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>870790</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>htm</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011007090-870790.htm</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>42/2011</registreringsID>
+      <tittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</tittel>
+      <offentligTittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus/>
+      <administrativEnhet>976819837</administrativEnhet>
+      <saksbehandler>Løvli Arnfinn</saksbehandler>
+      <!--JP-201004225-15481 (a281a52d-81ed-59e9-832f-16c4e0c1c7bf)-->
+      <referanseTilMoetesak>861c84aa-ef43-4a75-8a88-7a5911443fe9</referanseTilMoetesak>
+      <moetesaksaar>2010</moetesaksaar>
+      <moetesakssekvensnummer>42</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819837-8249-201003510-15487-43 (7b87900f-d406-58fc-945e-0646b9b15220)-->
+      <systemID>fd3fae34-ae0b-47d2-bc16-13d2fe1c462a</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870790</systemID>
+        <dokumenttype>MP</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll</tittel>
+        <beskrivelse>Protokoll</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>870790</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>htm</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011007090-870790.htm</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>43/2011</registreringsID>
+      <tittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</tittel>
+      <offentligTittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Behandlet i møte</moeteregistreringsstatus>
+      <administrativEnhet>976819837</administrativEnhet>
+      <saksbehandler>Simonnæs Kjersti</saksbehandler>
+      <!--JP-201003510-15487 (3c4e5604-5fcf-5e16-9802-348cde32b1c0)-->
+      <referanseTilMoetesak>a1fa0e6e-978f-416f-851c-eaadc88cc0ac</referanseTilMoetesak>
+      <moetesaksaar>2010</moetesaksaar>
+      <moetesakssekvensnummer>43</moetesakssekvensnummer>
+    </registrering>
+    <registrering xsi:type="ark:moetesaksregistrering">
+      <!--MR-976819837-8249-201002499-15473-44 (2446ce50-f8fe-55c1-a87d-aaa7313b1b10)-->
+      <systemID>edb1788c-41ce-481d-b4db-0577c53267ba</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv/>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870790</systemID>
+        <dokumenttype>MP</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Protokoll</tittel>
+        <beskrivelse>Protokoll</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>870790</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>htm</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011007090-870790.htm</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>44/2011</registreringsID>
+      <tittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</tittel>
+      <offentligTittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</offentligTittel>
+      <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+      <moetesakstype>Politisk sak</moetesakstype>
+      <moeteregistreringsstatus>Behandlet i møte</moeteregistreringsstatus>
+      <administrativEnhet>976819837</administrativEnhet>
+      <saksbehandler>Sigstad Einar Jerven</saksbehandler>
+      <!--JP-201002499-15473 (2a502309-d6df-5ff0-ada9-835f9c0909b4)-->
+      <referanseTilMoetesak>a4a416fa-cda1-4a33-bbde-817b09daf1b2</referanseTilMoetesak>
+      <moetesaksaar>2010</moetesaksaar>
+      <moetesakssekvensnummer>44</moetesakssekvensnummer>
+    </registrering>
+    <moetenummer/>
+    <utvalg>BR1</utvalg>
+    <moetedato>2011-03-03T10:00:00.000+01:00</moetedato>
+    <moetested>Byrådets møterom</moetested>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201002499-15473 (46c00854-1ce9-5a8c-879c-4606191fd5cf)-->
+    <systemID>e9f08909-d51a-4149-b52a-eab86503536b</systemID>
+    <mappeID>2010/2499</mappeID>
+    <tittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</tittel>
+    <offentligTittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</offentligTittel>
+    <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Sigstad Einar Jerven</opprettetAv>
+    <avsluttetDato>2011-03-03T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201002499-15473-->
+      <systemID>a4a416fa-cda1-4a33-bbde-817b09daf1b2</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Sigstad Einar Jerven</opprettetAv>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-2</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>2</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2010030886-870766.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-868235</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Plan- og bygningsetatens saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>868235</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010030886-868235.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-868236</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Vedlegg til Plan- og bygningsetaten saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>868236</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010030886-868236.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-868237</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Plan- og bygningsetatens brev</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>868237</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010030886-868237.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>2a502309-d6df-5ff0-ada9-835f9c0909b4</registreringsID>
+      <tittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</tittel>
+      <offentligTittel>Bestum skolevei 1 C, byggesak. Klage over avslag på endringssøknad. Dispensasjon fra reguleringsplan - Tillatt gesimshøyde. Bydel Ullern. Byrådssak 44/11</offentligTittel>
+      <journalaar>2010</journalaar>
+      <journalsekvensnummer>2499</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2011-03-03</journaldato>
+      <!--JP-1100469-941238 (757a458a-1d20-5332-abaf-4570155b5cb0)-->
+      <foelgsakenreferanse>32829ca4-3d51-4c6c-83c0-78cde4c4ffca</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2010</saksaar>
+    <sakssekvensnummer>2499</sakssekvensnummer>
+    <saksdato>2011-03-03</saksdato>
+    <administrativEnhet>976819837</administrativEnhet>
+    <saksansvarlig>Sigstad Einar Jerven</saksansvarlig>
+    <saksstatus>Avsluttet</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201003279-15488 (dc78543f-35e7-535d-aa0e-63cc3ed4b3f3)-->
+    <systemID>fd62dfa6-f1fe-4c9d-b202-a3e1d3093085</systemID>
+    <mappeID>2010/3279</mappeID>
+    <tittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</tittel>
+    <offentligTittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</offentligTittel>
+    <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Simonnæs Kjersti</opprettetAv>
+    <avsluttetDato>2011-03-03T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201003279-15488-->
+      <systemID>4b61a3ed-362c-445d-b434-c746a4d45df2</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Simonnæs Kjersti</opprettetAv>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-9</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>9</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011005418-870767.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870222</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Plan- og bygningsetatens saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870222</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011005418-870222.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870223</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Vedlegg til Plan- og bygningsetatens saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870223</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011005418-870223.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870224</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra Geitmyra parsellhagelag</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870224</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011005418-870224.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870225</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra Plan- og bygningsetaten</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870225</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011005418-870225.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>295e119c-3d02-5838-aa3a-fb80220ce7c8</registreringsID>
+      <tittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</tittel>
+      <offentligTittel>Ring 2, strekningen Blindernveien - Vogts gate, reguleringsplan - Sykkelvei, fortau, Bydel St. Hanshaugen/Bydel Sagene. Byrådssak 41/11</offentligTittel>
+      <journalaar>2010</journalaar>
+      <journalsekvensnummer>3279</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2011-03-03</journaldato>
+      <!--JP-1100466-941227 (bf67dbdf-d8d2-5283-ad25-896587aff302)-->
+      <foelgsakenreferanse>274f4944-d8ad-4dee-9322-8217b4bcffef</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2010</saksaar>
+    <sakssekvensnummer>3279</sakssekvensnummer>
+    <saksdato>2011-03-03</saksdato>
+    <administrativEnhet>976819837</administrativEnhet>
+    <saksansvarlig>Simonnæs Kjersti</saksansvarlig>
+    <saksstatus>Avsluttet</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201004225-15481 (e9fc6a0b-994e-50c8-896a-2c20bd813272)-->
+    <systemID>22a3ba6a-bfc7-4f45-9f4f-1270a1eb8922</systemID>
+    <mappeID>2010/4225</mappeID>
+    <tittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</tittel>
+    <offentligTittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</offentligTittel>
+    <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Løvli Arnfinn</opprettetAv>
+    <avsluttetDato>2011-03-03T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201004225-15481-->
+      <systemID>861c84aa-ef43-4a75-8a88-7a5911443fe9</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Løvli Arnfinn</opprettetAv>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-2</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>2</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2010035530-870769.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870252</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Saksfremstilling fra Plan- og bygningsetaten</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870252</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870252.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870253</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Deleplan</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870253</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870253.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870254</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra Byantikvaren</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870254</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870254.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870255</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Høringsuttalelse fra Sameiet Lilleaker gård AS</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870255</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870255.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870256</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Brev fra Langseth Advokatfirma DA</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870256</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870256.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870257</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Kart Midlertidig forbud mot tiltak</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870257</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2010035530-870257.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>a281a52d-81ed-59e9-832f-16c4e0c1c7bf</registreringsID>
+      <tittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</tittel>
+      <offentligTittel>Vækerøveien 42 - Lilleaker Gård, midlertidig forbud mot tiltak. Søknad om fradeling av tre boligparseller. Bydel Ullern. Byrådssak 42/11</offentligTittel>
+      <journalaar>2010</journalaar>
+      <journalsekvensnummer>4225</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2011-03-03</journaldato>
+      <!--JP-1100467-941231 (afb4a32a-53c4-538c-a420-92510be4073c)-->
+      <foelgsakenreferanse>b7b3a8f0-50a8-4769-9edc-4f2b413830a7</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2010</saksaar>
+    <sakssekvensnummer>4225</sakssekvensnummer>
+    <saksdato>2011-03-03</saksdato>
+    <administrativEnhet>976819837</administrativEnhet>
+    <saksansvarlig>Løvli Arnfinn</saksansvarlig>
+    <saksstatus>Under behandling</saksstatus>
+  </mappe>
+  <mappe xsi:type="ark:saksmappe" xmlns:ark="http://www.arkivverket.no/standarder/noark5/arkivstruktur">
+    <!--SM-201003510-15487 (3263910f-f374-5017-8c83-2794d3c665a2)-->
+    <systemID>35207140-4d98-4710-b6eb-950d4596118c</systemID>
+    <mappeID>2010/3510</mappeID>
+    <tittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</tittel>
+    <offentligTittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</offentligTittel>
+    <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+    <opprettetAv>Simonnæs Kjersti</opprettetAv>
+    <avsluttetDato>2011-03-03T00:00:00.000+01:00</avsluttetDato>
+    <avsluttetAv/>
+    <registrering xsi:type="ark:journalpost">
+      <!--JP-201003510-15487-->
+      <systemID>a1fa0e6e-978f-416f-851c-eaadc88cc0ac</systemID>
+      <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+      <opprettetAv>Simonnæs Kjersti</opprettetAv>
+      <arkivertDato>2011-03-03T00:00:00.000+01:00</arkivertDato>
+      <arkivertAv/>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-3</systemID>
+        <dokumenttype>S</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</tittel>
+        <beskrivelse>Saksframlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Hoveddokument</tilknyttetRegistreringSom>
+        <dokumentnummer>3</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/2011/BR1/2011006017-870768.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870249</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Plan- og bygningsetatens saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870249</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011006017-870249.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <dokumentbeskrivelse>
+        <systemID>DB-976819837-870250</systemID>
+        <dokumenttype>V</dokumenttype>
+        <dokumentstatus>Dokumentet er ferdigstilt</dokumentstatus>
+        <tittel>Vedlegg til Plan- og bygningsetatens saksfremstilling</tittel>
+        <beskrivelse>Vedlegg</beskrivelse>
+        <opprettetDato>2011-03-03T00:00:00.000+01:00</opprettetDato>
+        <opprettetAv/>
+        <dokumentmedium>Elektronisk arkiv</dokumentmedium>
+        <tilknyttetRegistreringSom>Vedlegg</tilknyttetRegistreringSom>
+        <dokumentnummer>870250</dokumentnummer>
+        <tilknyttetDato>2011-03-03T00:00:00.000+01:00</tilknyttetDato>
+        <tilknyttetAv/>
+        <dokumentobjekt>
+          <versjonsnummer>1</versjonsnummer>
+          <variantformat>Arkivformat</variantformat>
+          <format>pdf</format>
+          <opprettetDato>2011-03-03T12:00:11.000+01:00</opprettetDato>
+          <opprettetAv/>
+          <referanseDokumentfil>https://www.oslo.kommune.no/dok/Byr/0/VEDLEGG/2011006017-870250.pdf</referanseDokumentfil>
+          <sjekksum/>
+          <sjekksumAlgoritme/>
+          <filstoerrelse>0</filstoerrelse>
+        </dokumentobjekt>
+      </dokumentbeskrivelse>
+      <registreringsID>3c4e5604-5fcf-5e16-9802-348cde32b1c0</registreringsID>
+      <tittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</tittel>
+      <offentligTittel>Fredensborgveien 32, Fredensborg, detaljregulering kombinert bebyggelse og anlegg - Boligbebyggelse og administrasjon samt hensysnssone (bevaring/kulturmiljø). Bydel St. Hanshaugen. Byrådssak 43/11</offentligTittel>
+      <journalaar>2010</journalaar>
+      <journalsekvensnummer>3510</journalsekvensnummer>
+      <journalposttype>Saksframlegg</journalposttype>
+      <journalstatus>Journalført</journalstatus>
+      <journaldato>2011-03-03</journaldato>
+      <!--JP-1100468-941234 (4f981226-a1c8-5019-ab90-9928bd169ef9)-->
+      <foelgsakenreferanse>eea58b09-1994-4be8-a086-b99b7699e808</foelgsakenreferanse>
+    </registrering>
+    <saksaar>2010</saksaar>
+    <sakssekvensnummer>3510</sakssekvensnummer>
+    <saksdato>2011-03-03</saksdato>
+    <administrativEnhet>976819837</administrativEnhet>
+    <saksansvarlig>Simonnæs Kjersti</saksansvarlig>
+    <saksstatus>Avsluttet</saksstatus>
+  </mappe>
+</arkiv>
